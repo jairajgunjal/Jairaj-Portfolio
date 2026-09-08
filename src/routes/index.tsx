@@ -1,11 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
-import { Navbar } from "@/components/portfolio/Navbar";
-import { Hero } from "@/components/portfolio/Hero";
-import { About } from "@/components/portfolio/About";
-import { Experience } from "@/components/portfolio/Experience";
-import { Projects } from "@/components/portfolio/Projects";
-import { Contact } from "@/components/portfolio/Contact";
-import { useReveal } from "@/hooks/use-reveal";
+import App from "@/App";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -14,12 +8,15 @@ export const Route = createFileRoute("/")({
       {
         name: "description",
         content:
-          "AI Product Manager driving product vision across LLMs, Generative AI, Computer Vision and MLOps. Explore experience, projects and get in touch.",
+          "Customer Success leader transitioning into AI Product Management at Falcon Labs. Portfolio of generative AI, LLM pipelines and predictive ML models.",
       },
-      { property: "og:title", content: "Jairaj Gunjal — AI Product Manager Portfolio" },
+      {
+        property: "og:title",
+        content: "Jairaj Gunjal — AI Product Manager Portfolio",
+      },
       {
         property: "og:description",
-        content: "Shipping AI products that scale: LLM agents, MLOps platforms and computer vision systems.",
+        content: "Bridging user empathy with machine learning infrastructure.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
@@ -29,17 +26,5 @@ export const Route = createFileRoute("/")({
 });
 
 function Index() {
-  useReveal();
-  return (
-    <div className="min-h-screen bg-background text-foreground">
-      <Navbar />
-      <main>
-        <Hero />
-        <About />
-        <Experience />
-        <Projects />
-      </main>
-      <Contact />
-    </div>
-  );
+  return <App />;
 }
