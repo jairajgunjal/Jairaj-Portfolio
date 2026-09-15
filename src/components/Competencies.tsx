@@ -13,37 +13,37 @@ const skills = [
     label: "LLM Orchestration",
     icon: Network,
     detail:
-      "RAG, agents, tool-use and guardrails in production — building AI that stays helpful, safe and observable.",
+      "RAG, agents, tool-use and guardrails in production — scoping AI features that stay helpful, safe and observable.",
   },
   {
     label: "Roadmap Ownership",
     icon: Map,
     detail:
-      "Quarterly roadmaps tied to OKRs with clear trade-off narratives and stakeholder alignment.",
+      "Quarterly roadmaps tied to OKRs, with written trade-offs, PRDs and stakeholder sign-off from engineering to GTM.",
   },
   {
     label: "Product Strategy",
     icon: Compass,
     detail:
-      "Vision, positioning and 0→1 bets grounded in market need, model capability and business model.",
+      "Vision, positioning and 0→1 bets grounded in market need, technical feasibility and unit economics.",
   },
   {
-    label: "Predictive Churn Modeling",
+    label: "Telemetry & Predictive Analytics",
     icon: TrendingUp,
     detail:
-      "Proactive health scoring that flags at-risk revenue before it churns and powers retention plays.",
+      "SQL, Tableau and IoT/product telemetry turned into health scores and churn signals that trigger action before revenue is lost.",
   },
   {
     label: "User Discovery",
     icon: MessageSquare,
     detail:
-      "Turning support conversations, NPS and telemetry into validated problem statements and PRDs.",
+      "Turning support conversations, NPS and usage data into validated problem statements, user stories and acceptance criteria.",
   },
   {
     label: "Cross-functional Leadership",
     icon: Users,
     detail:
-      "Aligning research, engineering, design and GTM around one bet — from prototype to launch.",
+      "Aligning data science, engineering, operations and sales around one bet — from prototype to adoption. Led teams of 12 to 80+.",
   },
 ];
 

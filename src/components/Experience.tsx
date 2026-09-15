@@ -2,36 +2,59 @@ import { Briefcase, TrendingUp } from "lucide-react";
 
 const roles = [
   {
-    company: "Falcon Labs",
-    role: "Customer Success Manager",
-    dates: "2024 — Present",
+    company: "Faclon Labs",
+    role: "Customer Success Manager (Product-facing)",
+    dates: "Dec 2025 — Present · Mumbai",
     metric: "+28% Feature Adoption",
     bullets: [
-      "Track product usage and support themes to surface the highest-impact opportunities for the roadmap.",
-      "Draft PRDs and user stories rooted in real client pain points and renewal conversations.",
-      "Partnered with data science on health scoring that drove a 28% lift in feature adoption.",
+      "Own the post-deployment relationship for industrial IoT accounts, translating live telemetry and support themes into prioritised product opportunities.",
+      "Write PRDs, user stories and acceptance criteria grounded in real client pain points, and run them through engineering and data science reviews.",
+      "Partnered on account health scoring and usage analytics that lifted feature adoption 28% across the managed portfolio.",
     ],
   },
   {
-    company: "[Previous Company]",
-    role: "Senior Customer Success Associate",
-    dates: "2021 — 2024",
-    metric: "98% Net Revenue Retention",
+    company: "Dezy (Smiles.ai)",
+    role: "City Lead — Bengaluru",
+    dates: "Dec 2023 — Dec 2024 · Bengaluru",
+    metric: "₹7Cr Monthly Revenue City",
     bullets: [
-      "Managed a portfolio of 40+ enterprise accounts, turning churn signals into expansion plays.",
-      "Built dashboards that made product usage visible to internal stakeholders and executives.",
-      "Led quarterly business reviews that informed roadmap prioritization and pricing experiments.",
+      "Owned the full customer lifecycle — onboarding, engagement and satisfaction — for a multi-city operation generating ₹7 million in monthly revenue.",
+      "Led a direct and indirect team of 12, building the operating cadence for service quality and escalation handling.",
+      "Analysed customer data in Excel, SQL and Tableau to lift NPS and close feedback loops between operations and leadership.",
+      "Drove operating strategy focused on profitability and cost-to-serve, with direct impact on P&L metrics.",
     ],
   },
   {
-    company: "[Previous Company]",
-    role: "Sales Executive",
-    dates: "2019 — 2021",
-    metric: "Consistent Quota Attainment",
+    company: "Teachnook",
+    role: "Senior Manager & Lead Member",
+    dates: "Jul 2022 — Nov 2023 · Bengaluru",
+    metric: "₹3Cr Avg. Monthly Business",
     bullets: [
-      "Ran full-cycle deals, learning how buyers evaluate value, pricing and competing options.",
-      "Fed objection patterns and lost-deal reasons back to product and marketing.",
-      "Built the commercial instinct behind how I frame product bets today: revenue impact first.",
+      "Led sales and GTM during the growth run that ranked the company #13 on LinkedIn's Top Startups 2023.",
+      "Executed business worth ₹3Cr on average per month while leading a team of 80+ representatives.",
+      "Acted as the liaison between technical teams, marketing and executives to align product direction with commercial goals.",
+      "Built the distribution, pricing and promotion strategy that opened new revenue channels.",
+    ],
+  },
+  {
+    company: "Verzeo",
+    role: "Business Development Trainee → Senior Manager",
+    dates: "Aug 2020 — Jul 2022 · Bengaluru",
+    metric: "0 → 50 Team in 4 Weeks",
+    bullets: [
+      "Progressed from trainee to Senior Manager across four roles in two years, ending as second-in-command on a new branch launch.",
+      "Helped hire, build and scale a 50-person team from scratch in four weeks for the Vishakapatnam branch.",
+      "Ran full-cycle B2C deals, learning how buyers evaluate value, pricing and competing options.",
+    ],
+  },
+  {
+    company: "GTL Limited",
+    role: "Network Operations Center Engineer",
+    dates: "Jul 2019 — Dec 2019 · Mumbai",
+    metric: "Technical Foundation",
+    bullets: [
+      "Monitored live network infrastructure, triaging alarms and incidents against uptime SLAs.",
+      "Built the systems-thinking and telemetry instinct I now apply to product and data problems.",
     ],
   },
 ];
@@ -43,7 +66,13 @@ export default function Experience() {
         <p className="mb-3 text-xs font-semibold uppercase tracking-[0.2em] text-[#1E3A8A]">
           Experience
         </p>
-        <h2 className="text-3xl font-bold text-[#0F172A] sm:text-4xl">Trajectory: CS to AI PM.</h2>
+        <h2 className="text-3xl font-bold text-[#0F172A] sm:text-4xl">
+          Trajectory: engineering to sales to product.
+        </h2>
+        <p className="mt-4 max-w-2xl leading-relaxed text-[#64748B]">
+          A technical start, a decade of commercial ownership, and now product work at the point
+          where customer signal meets data infrastructure.
+        </p>
       </div>
 
       <ol className="relative ml-3 border-l border-[#E2E8F0] sm:ml-5">
