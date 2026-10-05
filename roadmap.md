@@ -1,1 +1,8 @@
-IyBSb2FkbWFwCgotIFt4XSBWZXJpZnkgcHJvZHVjdGlvbiBidWlsZCArIHJlc3VtZSBwbGFjZWhvbGRlciBQREYKLSBbeF0gQ3JlYXRlIEdpdEh1YiByZXBvIEphaXJhai1Qb3J0Zm9saW8gYW5kIHB1c2ggY29kZQotIFt4XSBMaWdodCBtaW5pbWFsaXN0IHJlZGVzaWduIChBcHAudHN4IHN0cnVjdHVyZSkKLSBbeF0gTWl4ZWQgY2FzZSBzdHVkaWVzIChzdHJhdGVneSwgcHJvZHVjdCBzZW5zZSwgQUkgYWdlbnQsIHRlY2huaWNhbCwgYnVzaW5lc3MpCi0gW3hdIEFkZCBwcmUtQ1NNIHNhbGVzIHJvbGUgdG8gZXhwZXJpZW5jZSB0aW1lbGluZQotIFt4XSBSZS1wdXNoIHVwZGF0ZWQgY29kZSB0byBHaXRIdWIgKGNvbW1pdCBjNzJjMGEyKQo=
+# Roadmap
+
+- [x] Verify production build + resume placeholder PDF
+- [x] Create GitHub repo Jairaj-Portfolio and push code
+- [x] Light minimalist redesign (App.tsx structure)
+- [x] Mixed case studies (strategy, product sense, AI agent, technical, business)
+- [x] Add pre-CSM sales role to experience timeline
+- [x] Re-push updated code to GitHub (commit c72c0a2)

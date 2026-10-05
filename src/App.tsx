@@ -1,1 +1,30 @@
-aW1wb3J0IE5hdmJhciBmcm9tICIuL2NvbXBvbmVudHMvTmF2YmFyIjsKaW1wb3J0IEhlcm8gZnJvbSAiLi9jb21wb25lbnRzL0hlcm8iOwppbXBvcnQgQ29tcGV0ZW5jaWVzIGZyb20gIi4vY29tcG9uZW50cy9Db21wZXRlbmNpZXMiOwppbXBvcnQgUHJvamVjdHMgZnJvbSAiLi9jb21wb25lbnRzL1Byb2plY3RzIjsKaW1wb3J0IEV4cGVyaWVuY2UgZnJvbSAiLi9jb21wb25lbnRzL0V4cGVyaWVuY2UiOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQXBwKCkgewogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0ibWluLWgtc2NyZWVuIGJnLVsjRjhGQUZDXSB0ZXh0LVsjMEYxNzJBXSBmb250LXNhbnMgYW50aWFsaWFzZWQgc2VsZWN0aW9uOmJnLVsjMUUzQThBXSBzZWxlY3Rpb246dGV4dC13aGl0ZSI+CiAgICAgIDxOYXZiYXIgLz4KICAgICAgPG1haW4gY2xhc3NOYW1lPSJtYXgtdy01eGwgbXgtYXV0byBweC00IHNtOnB4LTYgbGc6cHgtOCBzcGFjZS15LTIwIHB5LTgiPgogICAgICAgIDxzZWN0aW9uIGlkPSJoZXJvIiBjbGFzc05hbWU9InB0LTI0Ij4KICAgICAgICAgIDxIZXJvIC8+CiAgICAgICAgPC9zZWN0aW9uPgogICAgICAgIDxzZWN0aW9uIGlkPSJza2lsbHMiIGNsYXNzTmFtZT0iYmctd2hpdGUgYm9yZGVyIGJvcmRlci1bI0UyRThGMF0gcm91bmRlZC14bCBwLTggc2hhZG93LXNtIj4KICAgICAgICAgIDxDb21wZXRlbmNpZXMgLz4KICAgICAgICA8L3NlY3Rpb24+CiAgICAgICAgPHNlY3Rpb24gaWQ9InByb2plY3RzIj4KICAgICAgICAgIDxQcm9qZWN0cyAvPgogICAgICAgIDwvc2VjdGlvbj4KICAgICAgICA8c2VjdGlvbiBpZD0iZXhwZXJpZW5jZSIgY2xhc3NOYW1lPSJiZy13aGl0ZSBib3JkZXIgYm9yZGVyLVsjRTJFOEYwXSByb3VuZGVkLXhsIHAtOCBzaGFkb3ctc20iPgogICAgICAgICAgPEV4cGVyaWVuY2UgLz4KICAgICAgICA8L3NlY3Rpb24+CiAgICAgIDwvbWFpbj4KICAgICAgPGZvb3RlciBjbGFzc05hbWU9ImJnLXdoaXRlIGJvcmRlci10IGJvcmRlci1bI0UyRThGMF0gcHktOCB0ZXh0LWNlbnRlciB0ZXh0LXNtIHRleHQtWyM2NDc0OEJdIG10LTI0Ij4KICAgICAgICA8cD7CqSAyMDI2IEphaXJhaiBHdW5qYWwuIEFsbCByaWdodHMgcmVzZXJ2ZWQuPC9wPgogICAgICA8L2Zvb3Rlcj4KICAgIDwvZGl2PgogICk7Cn0K
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import Competencies from "./components/Competencies";
+import Projects from "./components/Projects";
+import Experience from "./components/Experience";
+
+export default function App() {
+  return (
+    <div className="min-h-screen bg-[#F8FAFC] text-[#0F172A] font-sans antialiased selection:bg-[#1E3A8A] selection:text-white">
+      <Navbar />
+      <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 space-y-20 py-8">
+        <section id="hero" className="pt-24">
+          <Hero />
+        </section>
+        <section id="skills" className="bg-white border border-[#E2E8F0] rounded-xl p-8 shadow-sm">
+          <Competencies />
+        </section>
+        <section id="projects">
+          <Projects />
+        </section>
+        <section id="experience" className="bg-white border border-[#E2E8F0] rounded-xl p-8 shadow-sm">
+          <Experience />
+        </section>
+      </main>
+      <footer className="bg-white border-t border-[#E2E8F0] py-8 text-center text-sm text-[#64748B] mt-24">
+        <p>© 2026 Jairaj Gunjal. All rights reserved.</p>
+      </footer>
+    </div>
+  );
+}

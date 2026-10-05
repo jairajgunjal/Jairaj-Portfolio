@@ -1,1 +1,122 @@
-aW1wb3J0IHsgRXh0ZXJuYWxMaW5rIH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKaW1wb3J0IHN1cHBvcnRJbWcgZnJvbSAiQC9hc3NldHMvcHJvamVjdC1zdXBwb3J0LmpwZyI7CmltcG9ydCBjaHVybkltZyBmcm9tICJAL2Fzc2V0cy9wcm9qZWN0LWNodXJuLmpwZyI7Cgp0eXBlIFByb2plY3QgPSB7CiAgdGl0bGU6IHN0cmluZzsKICBjYXRlZ29yeTogc3RyaW5nOwogIGltYWdlOiBzdHJpbmc7CiAgcHJvYmxlbTogc3RyaW5nOwogIGFwcHJvYWNoOiBzdHJpbmc7CiAgb3V0Y29tZTogc3RyaW5nOwogIHRhZ3M6IHN0cmluZ1tdOwp9OwoKY29uc3QgcHJvamVjdHM6IFByb2plY3RbXSA9IFsKICB7CiAgICB0aXRsZTogIkF1dG9tYXRlZCBUaWNrZXQtUmFpc2luZyBBSSBBZ2VudCIsCiAgICBjYXRlZ29yeTogIkFJIEFnZW50cyIsCiAgICBpbWFnZTogc3VwcG9ydEltZywKICAgIHByb2JsZW06CiAgICAgICJDdXN0b21lciBpc3N1ZXMgc3VyZmFjZWQgYWNyb3NzIGNoYXRzLCBjYWxscyBhbmQgaW50ZXJuYWwgdGhyZWFkcywgYW5kIHR1cm5pbmcgZWFjaCBvbmUgaW50byBhIHByb3Blcmx5IGZpbGVkIHRpY2tldCB3YXMgbWFudWFsLCBpbmNvbnNpc3RlbnQgYW5kIGVhc3kgdG8gbG9zZSB0cmFjayBvZi4iLAogICAgYXBwcm9hY2g6CiAgICAgICJCdWlsdCBhbiBBSSBhZ2VudCBpbiBuOG4gdGhhdCBjYXB0dXJlcyBjdXN0b21lciBpc3N1ZXMgZnJvbSB0ZWFtIGNoYW5uZWxzLCBzdHJ1Y3R1cmVzIHRoZW0gaW50byB0aWNrZXRzIHdpdGggdGhlIHJpZ2h0IGNhdGVnb3J5IGFuZCBwcmlvcml0eSwgYW5kIHJvdXRlcyB0aGVtIHRvIHRoZSBDU00gd29ya2Zsb3cgYXV0b21hdGljYWxseSDigJQgbm8gY29weS1wYXN0aW5nIGJldHdlZW4gdG9vbHMuIiwKICAgIG91dGNvbWU6CiAgICAgICJUaWNrZXQgY3JlYXRpb24gd2VudCBmcm9tIGEgbWFudWFsIHN0ZXAgdG8gYW4gYXV0b21hdGVkIGhhbmRvZmYg4oCUIGNvbnNpc3RlbnQgaW50YWtlLCBjb3JyZWN0IHJvdXRpbmcsIGFuZCBub3RoaW5nIHNsaXBwaW5nIHRocm91Z2ggdGhlIGNyYWNrcy4iLAogICAgdGFnczogWyJuOG4iLCAiQUkgQWdlbnRzIiwgIldvcmtmbG93IGF1dG9tYXRpb24iLCAiQ1NNIG9wcyJdLAogIH0sCiAgewogICAgdGl0bGU6ICJDdXN0b21lciBDaHVybiBQcmVkaWN0b3IiLAogICAgY2F0ZWdvcnk6ICJUZWNobmljYWwiLAogICAgaW1hZ2U6IGNodXJuSW1nLAogICAgcHJvYmxlbToKICAgICAgIlRoZXJlIHdhcyBubyBlYXJseSBzaWduYWwgZm9yIGFjY291bnRzIGRyaWZ0aW5nIHRvd2FyZCBjaHVybiDigJQgcmV0ZW50aW9uIGNvbnZlcnNhdGlvbnMgb25seSBzdGFydGVkIGFmdGVyIGEgY3VzdG9tZXIgaGFkIGFscmVhZHkgZGlzZW5nYWdlZC4iLAogICAgYXBwcm9hY2g6CiAgICAgICJCdWlsdCBhIGNodXJuIHByZWRpY3Rpb24gbW9kZWwgb24gY3VzdG9tZXIgdXNhZ2UgYW5kIGVuZ2FnZW1lbnQgc2lnbmFscywgc2NvcmluZyBhY2NvdW50cyBvbiByaXNrIHNvIHRoZSB0ZWFtIGNvdWxkIHByaW9yaXRpc2Ugb3V0cmVhY2ggYmVmb3JlIHRoZSByZWxhdGlvbnNoaXAgY29vbGVkLiIsCiAgICBvdXRjb21lOgogICAgICAiQXQtcmlzayBhY2NvdW50cyBub3cgc3VyZmFjZSBlYXJseSB3aXRoIGEgcmlzayBzY29yZSwgdHVybmluZyByZXRlbnRpb24gZnJvbSByZWFjdGl2ZSBmaXJlZmlnaHRpbmcgaW50byBwcm9hY3RpdmUsIGRhdGEtYmFja2VkIG91dHJlYWNoLiIsCiAgICB0YWdzOiBbIkNodXJuIG1vZGVsbGluZyIsICJQcmVkaWN0aXZlIGFuYWx5dGljcyIsICJTUUwiLCAiRGF0YS1kcml2ZW4gcmV0ZW50aW9uIl0sCiAgfSwKXTsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFByb2plY3RzKCkgewogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0ic2Nyb2xsLW10LTI0Ij4KICAgICAgPGRpdiBjbGFzc05hbWU9Im1iLTgiPgogICAgICAgIDxwIGNsYXNzTmFtZT0ibWItMyB0ZXh0LXhzIGZvbnQtc2VtaWJvbGQgdXBwZXJjYXNlIHRyYWNraW5nLVswLjJlbV0gdGV4dC1wcmltYXJ5Ij4KICAgICAgICAgIENhc2UgU3R1ZGllcwogICAgICAgIDwvcD4KICAgICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LTN4bCBmb250LWJvbGQgdGV4dC1mb3JlZ3JvdW5kIHNtOnRleHQtNHhsIj4KICAgICAgICAgIFByb2JsZW1zIHNvbHZlZCwgbm90IGZlYXR1cmVzIHNoaXBwZWQuCiAgICAgICAgPC9oMj4KICAgICAgICA8cCBjbGFzc05hbWU9Im10LTQgbWF4LXctMnhsIGxlYWRpbmctcmVsYXhlZCB0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgUHJvamVjdHMgSSd2ZSBidWlsdCBoYW5kcy1vbiB3aGlsZSBtb3ZpbmcgZnJvbSBDdXN0b21lciBTdWNjZXNzIGludG8KICAgICAgICAgIFByb2R1Y3Qg4oCUIHJlYWwgYXV0b21hdGlvbiBhbmQgYW5hbHl0aWNzIHNoaXBwZWQgZm9yIG15IG93biB0ZWFtcy4KICAgICAgICA8L3A+CiAgICAgIDwvZGl2PgoKICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ2FwLTYgbWQ6Z3JpZC1jb2xzLTIiPgogICAgICAgIHtwcm9qZWN0cy5tYXAoKHApID0+ICgKICAgICAgICAgIDxhcnRpY2xlCiAgICAgICAgICAgIGtleT17cC50aXRsZX0KICAgICAgICAgICAgY2xhc3NOYW1lPSJncm91cCBmbGV4IGZsZXgtY29sIG92ZXJmbG93LWhpZGRlbiByb3VuZGVkLTJ4bCBib3JkZXIgYm9yZGVyLWJvcmRlciBiZy1jYXJkIHNoYWRvdy1zbSB0cmFuc2l0aW9uLWFsbCBkdXJhdGlvbi0zMDAgaG92ZXI6LXRyYW5zbGF0ZS15LTEgaG92ZXI6c2hhZG93LW1kIgogICAgICAgICAgPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icmVsYXRpdmUgYXNwZWN0LVsxNi8xMF0gb3ZlcmZsb3ctaGlkZGVuIj4KICAgICAgICAgICAgICA8aW1nCiAgICAgICAgICAgICAgICBzcmM9e3AuaW1hZ2V9CiAgICAgICAgICAgICAgICBhbHQ9e3AudGl0bGV9CiAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImgtZnVsbCB3LWZ1bGwgb2JqZWN0LWNvdmVyIHRyYW5zaXRpb24tdHJhbnNmb3JtIGR1cmF0aW9uLTcwMCBncm91cC1ob3ZlcjpzY2FsZS0xMDUiCiAgICAgICAgICAgICAgICBsb2FkaW5nPSJsYXp5IgogICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJhYnNvbHV0ZSBsZWZ0LTQgdG9wLTQgcm91bmRlZC1tZCBiZy1iYWNrZ3JvdW5kLzkwIHB4LTIuNSBweS0xIHRleHQtWzExcHhdIGZvbnQtc2VtaWJvbGQgdXBwZXJjYXNlIHRyYWNraW5nLXdpZGUgdGV4dC1wcmltYXJ5IGJhY2tkcm9wLWJsdXIiPgogICAgICAgICAgICAgICAge3AuY2F0ZWdvcnl9CiAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZmxleC0xIGZsZXgtY29sIHAtNiI+CiAgICAgICAgICAgICAgPGgzIGNsYXNzTmFtZT0idGV4dC1sZyBmb250LXNlbWlib2xkIHRleHQtZm9yZWdyb3VuZCI+e3AudGl0bGV9PC9oMz4KCiAgICAgICAgICAgICAgPGRsIGNsYXNzTmFtZT0ibXQtNCBzcGFjZS15LTMgdGV4dC1zbSBsZWFkaW5nLXJlbGF4ZWQiPgogICAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgICAgPGR0IGNsYXNzTmFtZT0idGV4dC1bMTFweF0gZm9udC1zZW1pYm9sZCB1cHBlcmNhc2UgdHJhY2tpbmctd2lkZSB0ZXh0LW11dGVkLWZvcmVncm91bmQvNzAiPgogICAgICAgICAgICAgICAgICAgIFByb2JsZW0KICAgICAgICAgICAgICAgICAgPC9kdD4KICAgICAgICAgICAgICAgICAgPGRkIGNsYXNzTmFtZT0ibXQtMSB0ZXh0LW11dGVkLWZvcmVncm91bmQiPntwLnByb2JsZW19PC9kZD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgICAgPGR0IGNsYXNzTmFtZT0idGV4dC1bMTFweF0gZm9udC1zZW1pYm9sZCB1cHBlcmNhc2UgdHJhY2tpbmctd2lkZSB0ZXh0LW11dGVkLWZvcmVncm91bmQvNzAiPgogICAgICAgICAgICAgICAgICAgIEFwcHJvYWNoCiAgICAgICAgICAgICAgICAgIDwvZHQ+CiAgICAgICAgICAgICAgICAgIDxkZCBjbGFzc05hbWU9Im10LTEgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj57cC5hcHByb2FjaH08L2RkPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kbD4KCiAgICAgICAgICAgICAgPHVsIGNsYXNzTmFtZT0ibXQtNCBmbGV4IGZsZXgtd3JhcCBnYXAtMS41Ij4KICAgICAgICAgICAgICAgIHtwLnRhZ3MubWFwKCh0KSA9PiAoCiAgICAgICAgICAgICAgICAgIDxsaQogICAgICAgICAgICAgICAgICAgIGtleT17dH0KICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InJvdW5kZWQtbWQgYmctbXV0ZWQgcHgtMiBweS0xIHRleHQtWzExcHhdIGZvbnQtc2VtaWJvbGQgdHJhY2tpbmctd2lkZSB0ZXh0LW11dGVkLWZvcmVncm91bmQiCiAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICB7dH0KICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICkpfQogICAgICAgICAgICAgIDwvdWw+CgogICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtNCByb3VuZGVkLWxnIGJvcmRlciBib3JkZXItcHJpbWFyeS8yMCBiZy1wcmltYXJ5LzUgcHgtMyBweS0yIHRleHQtc20gZm9udC1tZWRpdW0gdGV4dC1wcmltYXJ5Ij4KICAgICAgICAgICAgICAgIHtwLm91dGNvbWV9CiAgICAgICAgICAgICAgPC9wPgoKICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtYXV0byBwdC02Ij4KICAgICAgICAgICAgICAgIDxhCiAgICAgICAgICAgICAgICAgIGhyZWY9IiNwcm9qZWN0cyIKICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJpbmxpbmUtZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgZ2FwLTIgcm91bmRlZC1sZyBiZy1wcmltYXJ5IHB4LTQgcHktMi41IHRleHQtc20gZm9udC1zZW1pYm9sZCB0ZXh0LXByaW1hcnktZm9yZWdyb3VuZCB0cmFuc2l0aW9uLWNvbG9ycyBob3ZlcjpiZy1wcmltYXJ5LzkwIgogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICBSZWFkIHRoZSBmdWxsIHN0b3J5IDxFeHRlcm5hbExpbmsgY2xhc3NOYW1lPSJoLTQgdy00IiAvPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvYXJ0aWNsZT4KICAgICAgICApKX0KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9Cg==
+import { ExternalLink } from "lucide-react";
+import supportImg from "@/assets/project-support.jpg";
+import churnImg from "@/assets/project-churn.jpg";
+
+type Project = {
+  title: string;
+  category: string;
+  image: string;
+  problem: string;
+  approach: string;
+  outcome: string;
+  tags: string[];
+};
+
+const projects: Project[] = [
+  {
+    title: "Automated Ticket-Raising AI Agent",
+    category: "AI Agents",
+    image: supportImg,
+    problem:
+      "Customer issues surfaced across chats, calls and internal threads, and turning each one into a properly filed ticket was manual, inconsistent and easy to lose track of.",
+    approach:
+      "Built an AI agent in n8n that captures customer issues from team channels, structures them into tickets with the right category and priority, and routes them to the CSM workflow automatically — no copy-pasting between tools.",
+    outcome:
+      "Ticket creation went from a manual step to an automated handoff — consistent intake, correct routing, and nothing slipping through the cracks.",
+    tags: ["n8n", "AI Agents", "Workflow automation", "CSM ops"],
+  },
+  {
+    title: "Customer Churn Predictor",
+    category: "Technical",
+    image: churnImg,
+    problem:
+      "There was no early signal for accounts drifting toward churn — retention conversations only started after a customer had already disengaged.",
+    approach:
+      "Built a churn prediction model on customer usage and engagement signals, scoring accounts on risk so the team could prioritise outreach before the relationship cooled.",
+    outcome:
+      "At-risk accounts now surface early with a risk score, turning retention from reactive firefighting into proactive, data-backed outreach.",
+    tags: ["Churn modelling", "Predictive analytics", "SQL", "Data-driven retention"],
+  },
+];
+
+export default function Projects() {
+  return (
+    <div className="scroll-mt-24">
+      <div className="mb-8">
+        <p className="mb-3 text-xs font-semibold uppercase tracking-[0.2em] text-primary">
+          Case Studies
+        </p>
+        <h2 className="text-3xl font-bold text-foreground sm:text-4xl">
+          Problems solved, not features shipped.
+        </h2>
+        <p className="mt-4 max-w-2xl leading-relaxed text-muted-foreground">
+          Projects I've built hands-on while moving from Customer Success into
+          Product — real automation and analytics shipped for my own teams.
+        </p>
+      </div>
+
+      <div className="grid gap-6 md:grid-cols-2">
+        {projects.map((p) => (
+          <article
+            key={p.title}
+            className="group flex flex-col overflow-hidden rounded-2xl border border-border bg-card shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-md"
+          >
+            <div className="relative aspect-[16/10] overflow-hidden">
+              <img
+                src={p.image}
+                alt={p.title}
+                className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-105"
+                loading="lazy"
+              />
+              <span className="absolute left-4 top-4 rounded-md bg-background/90 px-2.5 py-1 text-[11px] font-semibold uppercase tracking-wide text-primary backdrop-blur">
+                {p.category}
+              </span>
+            </div>
+            <div className="flex flex-1 flex-col p-6">
+              <h3 className="text-lg font-semibold text-foreground">{p.title}</h3>
+
+              <dl className="mt-4 space-y-3 text-sm leading-relaxed">
+                <div>
+                  <dt className="text-[11px] font-semibold uppercase tracking-wide text-muted-foreground/70">
+                    Problem
+                  </dt>
+                  <dd className="mt-1 text-muted-foreground">{p.problem}</dd>
+                </div>
+                <div>
+                  <dt className="text-[11px] font-semibold uppercase tracking-wide text-muted-foreground/70">
+                    Approach
+                  </dt>
+                  <dd className="mt-1 text-muted-foreground">{p.approach}</dd>
+                </div>
+              </dl>
+
+              <ul className="mt-4 flex flex-wrap gap-1.5">
+                {p.tags.map((t) => (
+                  <li
+                    key={t}
+                    className="rounded-md bg-muted px-2 py-1 text-[11px] font-semibold tracking-wide text-muted-foreground"
+                  >
+                    {t}
+                  </li>
+                ))}
+              </ul>
+
+              <p className="mt-4 rounded-lg border border-primary/20 bg-primary/5 px-3 py-2 text-sm font-medium text-primary">
+                {p.outcome}
+              </p>
+
+              <div className="mt-auto pt-6">
+                <a
+                  href="#projects"
+                  className="inline-flex items-center justify-center gap-2 rounded-lg bg-primary px-4 py-2.5 text-sm font-semibold text-primary-foreground transition-colors hover:bg-primary/90"
+                >
+                  Read the full story <ExternalLink className="h-4 w-4" />
+                </a>
+              </div>
+            </div>
+          </article>
+        ))}
+      </div>
+    </div>
+  );
+}

@@ -1,1 +1,149 @@
-aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IE1lbnUsIFggfSBmcm9tICJsdWNpZGUtcmVhY3QiOwoKY29uc3QgbmF2TGlua3MgPSBbCiAgeyBocmVmOiAiI2hlcm8iLCBsYWJlbDogIkhvbWUiIH0sCiAgeyBocmVmOiAiI3NraWxscyIsIGxhYmVsOiAiU2tpbGxzIiB9LAogIHsgaHJlZjogIiNwcm9qZWN0cyIsIGxhYmVsOiAiUHJvamVjdHMiIH0sCiAgeyBocmVmOiAiI2V4cGVyaWVuY2UiLCBsYWJlbDogIkV4cGVyaWVuY2UiIH0sCl07Cgpjb25zdCBMaW5rZWRJbkljb24gPSAoKSA9PiAoCiAgPHN2ZyBjbGFzc05hbWU9ImgtNiB3LTYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzBBNjZDMiI+CiAgICA8cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAwMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDExMi4wNjMgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIgLz4KICA8L3N2Zz4KKTsKCmNvbnN0IEdtYWlsSWNvbiA9ICgpID0+ICgKICA8c3ZnIGNsYXNzTmFtZT0iaC02IHctNiIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTI0IDUuNDU3djEzLjkwOWMwIC45MDQtLjczMiAxLjYzNi0xLjYzNiAxLjYzNmgtMy44MTlWMTEuNTQ1TDEyIDE2LjYzNmwtNi41NDUtNS4wOTF2OS40NTdIMS42MzZBMS42MzYgMS42MzYgMCAwMTAgMTkuMzY2VjUuNDU3YzAtMS4wOTEgMS4xMTgtMS44MTggMi4wNDUtMS4zNjRMMTIgMTAuMDlsOS45NTUtNS45OTdjLjkyNy0uNDU0IDIuMDQ1LjI3MyAyLjA0NSAxLjM2NHoiIGZpbGw9IiNFQTQzMzUiIC8+CiAgICA8cGF0aCBkPSJNMCA1LjQ1N3YxMy45MDljMCAuOTA0LjczMiAxLjYzNiAxLjYzNiAxLjYzNmgzLjgxOVYxMS41NDVMMCA3LjYzNnYtMi4xNzl6IiBmaWxsPSIjRkJCQzA1IiAvPgogICAgPHBhdGggZD0iTTI0IDUuNDU3djEzLjkwOWMwIC45MDQtLjczMiAxLjYzNi0xLjYzNiAxLjYzNmgtMy44MTlWMTEuNTQ1TDI0IDcuNjM2di0yLjE3OXoiIGZpbGw9IiMzNEE4NTMiIC8+CiAgICA8cGF0aCBkPSJNMTIgMTAuMDlMMi4wNDUgNC4wOTNDMS4xMTggMy42MzkgMCA0LjM2NiAwIDUuNDU3bDEyIDcuNjM2IDEyLTcuNjM2YzAtMS4wOTEtMS4xMTgtMS44MTgtMi4wNDUtMS4zNjRMMTIgMTAuMDl6IiBmaWxsPSIjQzUyMjFGIiAvPgogIDwvc3ZnPgopOwoKY29uc3QgR2l0SHViSWNvbiA9ICgpID0+ICgKICA8c3ZnIGNsYXNzTmFtZT0iaC02IHctNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjMTgxNzE3Ij4KICAgIDxwYXRoIGQ9Ik0xMiAuMjk3Yy02LjYzIDAtMTIgNS4zNzMtMTIgMTIgMCA1LjMwMyAzLjQzOCA5LjggOC4yMDUgMTEuMzg1LjYuMTEzLjgyLS4yNTguODItLjU3NyAwLS4yODUtLjAxLTEuMDQtLjAxNS0yLjA0LTMuMzM4LjcyNC00LjA0Mi0xLjYxLTQuMDQyLTEuNjFDNC40MjIgMTguMDcgMy42MzMgMTcuNyAzLjYzMyAxNy43Yy0xLjA4Ny0uNzQ0LjA4NC0uNzI5LjA4NC0uNzI5IDEuMjA1LjA4NCAxLjgzOCAxLjIzNiAxLjgzOCAxLjIzNiAxLjA3IDEuODM1IDIuODA5IDEuMzA1IDMuNDk1Ljk5OC4xMDgtLjc3Ni40MTktMS4zMDUuNzYtMS42MDUtMi42NjUtLjMtNS40NjYtMS4zMzItNS40NjYtNS45MyAwLTEuMzEuNDY1LTIuMzggMS4yMzUtMy4yMi0uMTM1LS4zMDMtLjU0LTEuNTIzLjEwNS0zLjE3NiAwIDAgMS4wMDUtLjMyMiAzLjMgMS4yMy45Ni0uMjY3IDEuOTgtLjM5OSAzLS40MDUgMS4wMi4wMDYgMi4wNC4xMzggMyAuNDA1IDIuMjgtMS41NTIgMy4yODUtMS4yMyAzLjI4NS0xLjIzLjY0NSAxLjY1My4yNCAyLjg3My4xMiAzLjE3Ni43NjUuODQgMS4yMyAxLjkxIDEuMjMgMy4yMiAwIDQuNjEtMi44MDUgNS42MjUtNS40NzUgNS45Mi40Mi4zNi44MSAxLjA5Ni44MSAyLjIyIDAgMS42MDYtLjAxNSAyLjg5OC0uMDE1IDMuMjkzIDAgLjMxNS4yMS42OS44MjUuNTdDMjAuNTY1IDIyLjA5MiAyNCAxNy41OTIgMjQgMTIuMjk3YzAtNi42MjctNS4zNzMtMTItMTItMTIiIC8+CiAgPC9zdmc+Cik7CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBOYXZiYXIoKSB7CiAgY29uc3QgW29wZW4sIHNldE9wZW5dID0gdXNlU3RhdGUoZmFsc2UpOwoKICByZXR1cm4gKAogICAgPG5hdiBjbGFzc05hbWU9ImZpeGVkIGluc2V0LXgtMCB0b3AtMCB6LTUwIGdsYXNzLWxpZ2h0Ij4KICAgICAgPGRpdiBjbGFzc05hbWU9Im14LWF1dG8gZmxleCBoLTE2IG1heC13LTV4bCBpdGVtcy1jZW50ZXIganVzdGlmeS1iZXR3ZWVuIHB4LTQgc206cHgtNiBsZzpweC04Ij4KICAgICAgICA8YSBocmVmPSIjaGVybyIgY2xhc3NOYW1lPSJmb250LWRpc3BsYXkgdGV4dC14bCBmb250LWJvbGQgdHJhY2tpbmctdGlnaHQgdGV4dC1bIzBGMTcyQV0iPgogICAgICAgICAgSmFpcmFqIEd1bmphbDxzcGFuIGNsYXNzTmFtZT0idGV4dC1bIzFFM0E4QV0iPi48L3NwYW4+CiAgICAgICAgPC9hPgoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iaGlkZGVuIGl0ZW1zLWNlbnRlciBnYXAtOCBtZDpmbGV4Ij4KICAgICAgICAgIHtuYXZMaW5rcy5tYXAoKGwpID0+ICgKICAgICAgICAgICAgPGEKICAgICAgICAgICAgICBrZXk9e2wuaHJlZn0KICAgICAgICAgICAgICBocmVmPXtsLmhyZWZ9CiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LXNtIGZvbnQtbWVkaXVtIHRleHQtWyM2NDc0OEJdIHRyYW5zaXRpb24tY29sb3JzIGhvdmVyOnRleHQtWyMwRjE3MkFdIgogICAgICAgICAgICA+CiAgICAgICAgICAgICAge2wubGFiZWx9CiAgICAgICAgICAgIDwvYT4KICAgICAgICAgICkpfQogICAgICAgIDwvZGl2PgoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iaGlkZGVuIGl0ZW1zLWNlbnRlciBnYXAtMyBtZDpmbGV4Ij4KICAgICAgICAgIDxhCiAgICAgICAgICAgIGhyZWY9Ii9yZXN1bWUtcGxhY2Vob2xkZXIucGRmIgogICAgICAgICAgICB0YXJnZXQ9Il9ibGFuayIKICAgICAgICAgICAgcmVsPSJub3JlZmVycmVyIgogICAgICAgICAgICBjbGFzc05hbWU9ImlubGluZS1mbGV4IGl0ZW1zLWNlbnRlciByb3VuZGVkLWZ1bGwgYmctWyMwRjE3MkFdIHB4LTQgcHktMS41IHRleHQtc20gZm9udC1zZW1pYm9sZCB0ZXh0LXdoaXRlIHRyYW5zaXRpb24tY29sb3JzIGhvdmVyOmJnLVsjMUUyOTNCXSIKICAgICAgICAgID4KICAgICAgICAgICAgUmVzdW1lCiAgICAgICAgICA8L2E+CiAgICAgICAgICA8YQogICAgICAgICAgICBocmVmPSJodHRwczovL3d3dy5saW5rZWRpbi5jb20vaW4vamFpcmFqLWd1bmphbC0zNWIxNWIxMDQ/dXRtX3NvdXJjZT1zaGFyZV92aWEmdXRtX2NvbnRlbnQ9cHJvZmlsZSZ1dG1fbWVkaXVtPW1lbWJlcl9pb3MiCiAgICAgICAgICAgIHRhcmdldD0iX2JsYW5rIgogICAgICAgICAgICByZWw9Im5vcmVmZXJyZXIiCiAgICAgICAgICAgIGNsYXNzTmFtZT0idHJhbnNpdGlvbi10cmFuc2Zvcm0gaG92ZXI6c2NhbGUtMTEwIgogICAgICAgICAgICBhcmlhLWxhYmVsPSJMaW5rZWRJbiIKICAgICAgICAgID4KICAgICAgICAgICAgPExpbmtlZEluSWNvbiAvPgogICAgICAgICAgPC9hPgogICAgICAgICAgPGEKICAgICAgICAgICAgaHJlZj0ibWFpbHRvOmphaXJhamd1bmphbDEwQGdtYWlsLmNvbSIKICAgICAgICAgICAgY2xhc3NOYW1lPSJ0cmFuc2l0aW9uLXRyYW5zZm9ybSBob3ZlcjpzY2FsZS0xMTAiCiAgICAgICAgICAgIGFyaWEtbGFiZWw9IkVtYWlsIgogICAgICAgICAgPgogICAgICAgICAgICA8R21haWxJY29uIC8+CiAgICAgICAgICA8L2E+CiAgICAgICAgICA8YQogICAgICAgICAgICBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vamFpcmFqZ3VuamFsIgogICAgICAgICAgICB0YXJnZXQ9Il9ibGFuayIKICAgICAgICAgICAgcmVsPSJub3JlZmVycmVyIgogICAgICAgICAgICBjbGFzc05hbWU9InRyYW5zaXRpb24tdHJhbnNmb3JtIGhvdmVyOnNjYWxlLTExMCIKICAgICAgICAgICAgYXJpYS1sYWJlbD0iR2l0SHViIgogICAgICAgICAgPgogICAgICAgICAgICA8R2l0SHViSWNvbiAvPgogICAgICAgICAgPC9hPgogICAgICAgIDwvZGl2PgoKICAgICAgICA8YnV0dG9uCiAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBzZXRPcGVuKChvKSA9PiAhbyl9CiAgICAgICAgICBjbGFzc05hbWU9ImdyaWQgaC0xMCB3LTEwIHBsYWNlLWl0ZW1zLWNlbnRlciByb3VuZGVkLWxnIGJvcmRlciBib3JkZXItWyNFMkU4RjBdIHRleHQtWyMwRjE3MkFdIG1kOmhpZGRlbiIKICAgICAgICAgIGFyaWEtbGFiZWw9IlRvZ2dsZSBtZW51IgogICAgICAgID4KICAgICAgICAgIHtvcGVuID8gPFggY2xhc3NOYW1lPSJoLTUgdy01IiAvPiA6IDxNZW51IGNsYXNzTmFtZT0iaC01IHctNSIgLz59CiAgICAgICAgPC9idXR0b24+CiAgICAgIDwvZGl2PgoKICAgICAge29wZW4gJiYgKAogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJib3JkZXItdCBib3JkZXItWyNFMkU4RjBdIGJnLXdoaXRlLzk1IHB4LTQgcGItNCBwdC0yIG1kOmhpZGRlbiI+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LWNvbCBnYXAtMSI+CiAgICAgICAgICAgIHtuYXZMaW5rcy5tYXAoKGwpID0+ICgKICAgICAgICAgICAgICA8YQogICAgICAgICAgICAgICAga2V5PXtsLmhyZWZ9CiAgICAgICAgICAgICAgICBocmVmPXtsLmhyZWZ9CiAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBzZXRPcGVuKGZhbHNlKX0KICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iYmxvY2sgcm91bmRlZC1sZyBweC0zIHB5LTIuNSB0ZXh0LXNtIGZvbnQtbWVkaXVtIHRleHQtWyM2NDc0OEJdIHRyYW5zaXRpb24tY29sb3JzIGhvdmVyOmJnLVsjRjFGNUY5XSBob3Zlcjp0ZXh0LVsjMEYxNzJBXSIKICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICB7bC5sYWJlbH0KICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICkpfQogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtNCBmbGV4IGl0ZW1zLWNlbnRlciBnYXAtNCBib3JkZXItdCBib3JkZXItWyNFMkU4RjBdIHB0LTQiPgogICAgICAgICAgICA8YQogICAgICAgICAgICAgIGhyZWY9Ii9yZXN1bWUtcGxhY2Vob2xkZXIucGRmIgogICAgICAgICAgICAgIHRhcmdldD0iX2JsYW5rIgogICAgICAgICAgICAgIHJlbD0ibm9yZWZlcnJlciIKICAgICAgICAgICAgICBjbGFzc05hbWU9ImlubGluZS1mbGV4IGl0ZW1zLWNlbnRlciByb3VuZGVkLWZ1bGwgYmctWyMwRjE3MkFdIHB4LTQgcHktMS41IHRleHQtc20gZm9udC1zZW1pYm9sZCB0ZXh0LXdoaXRlIHRyYW5zaXRpb24tY29sb3JzIGhvdmVyOmJnLVsjMUUyOTNCXSIKICAgICAgICAgICAgPgogICAgICAgICAgICAgIFJlc3VtZQogICAgICAgICAgICA8L2E+CiAgICAgICAgICAgIDxhCiAgICAgICAgICAgICAgaHJlZj0iaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL2phaXJhai1ndW5qYWwtMzViMTViMTA0P3V0bV9zb3VyY2U9c2hhcmVfdmlhJnV0bV9jb250ZW50PXByb2ZpbGUmdXRtX21lZGl1bT1tZW1iZXJfaW9zIgogICAgICAgICAgICAgIHRhcmdldD0iX2JsYW5rIgogICAgICAgICAgICAgIHJlbD0ibm9yZWZlcnJlciIKICAgICAgICAgICAgICBhcmlhLWxhYmVsPSJMaW5rZWRJbiIKICAgICAgICAgICAgPgogICAgICAgICAgICAgIDxMaW5rZWRJbkljb24gLz4KICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8YQogICAgICAgICAgICAgIGhyZWY9Im1haWx0bzpqYWlyYWpndW5qYWwxMEBnbWFpbC5jb20iCiAgICAgICAgICAgICAgYXJpYS1sYWJlbD0iRW1haWwiCiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8R21haWxJY29uIC8+CiAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgPGEKICAgICAgICAgICAgICBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vamFpcmFqZ3VuamFsIgogICAgICAgICAgICAgIHRhcmdldD0iX2JsYW5rIgogICAgICAgICAgICAgIHJlbD0ibm9yZWZlcnJlciIKICAgICAgICAgICAgICBhcmlhLWxhYmVsPSJHaXRIdWIiCiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8R2l0SHViSWNvbiAvPgogICAgICAgICAgICA8L2E+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgKX0KICAgIDwvbmF2PgogICk7Cn0K
+import { useState } from "react";
+import { Menu, X } from "lucide-react";
+
+const navLinks = [
+  { href: "#hero", label: "Home" },
+  { href: "#skills", label: "Skills" },
+  { href: "#projects", label: "Projects" },
+  { href: "#experience", label: "Experience" },
+];
+
+const LinkedInIcon = () => (
+  <svg className="h-6 w-6" viewBox="0 0 24 24" fill="#0A66C2">
+    <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z" />
+  </svg>
+);
+
+const GmailIcon = () => (
+  <svg className="h-6 w-6" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.545L12 16.636l-6.545-5.091v9.457H1.636A1.636 1.636 0 010 19.366V5.457c0-1.091 1.118-1.818 2.045-1.364L12 10.09l9.955-5.997c.927-.454 2.045.273 2.045 1.364z" fill="#EA4335" />
+    <path d="M0 5.457v13.909c0 .904.732 1.636 1.636 1.636h3.819V11.545L0 7.636v-2.179z" fill="#FBBC05" />
+    <path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.545L24 7.636v-2.179z" fill="#34A853" />
+    <path d="M12 10.09L2.045 4.093C1.118 3.639 0 4.366 0 5.457l12 7.636 12-7.636c0-1.091-1.118-1.818-2.045-1.364L12 10.09z" fill="#C5221F" />
+  </svg>
+);
+
+const GitHubIcon = () => (
+  <svg className="h-6 w-6" viewBox="0 0 24 24" fill="#181717">
+    <path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.419-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.898-.015 3.293 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12" />
+  </svg>
+);
+
+export default function Navbar() {
+  const [open, setOpen] = useState(false);
+
+  return (
+    <nav className="fixed inset-x-0 top-0 z-50 glass-light">
+      <div className="mx-auto flex h-16 max-w-5xl items-center justify-between px-4 sm:px-6 lg:px-8">
+        <a href="#hero" className="font-display text-xl font-bold tracking-tight text-[#0F172A]">
+          Jairaj Gunjal<span className="text-[#1E3A8A]">.</span>
+        </a>
+
+        <div className="hidden items-center gap-8 md:flex">
+          {navLinks.map((l) => (
+            <a
+              key={l.href}
+              href={l.href}
+              className="text-sm font-medium text-[#64748B] transition-colors hover:text-[#0F172A]"
+            >
+              {l.label}
+            </a>
+          ))}
+        </div>
+
+        <div className="hidden items-center gap-3 md:flex">
+          <a
+            href="/resume-placeholder.pdf"
+            target="_blank"
+            rel="noreferrer"
+            className="inline-flex items-center rounded-full bg-[#0F172A] px-4 py-1.5 text-sm font-semibold text-white transition-colors hover:bg-[#1E293B]"
+          >
+            Resume
+          </a>
+          <a
+            href="https://www.linkedin.com/in/jairaj-gunjal-35b15b104?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
+            target="_blank"
+            rel="noreferrer"
+            className="transition-transform hover:scale-110"
+            aria-label="LinkedIn"
+          >
+            <LinkedInIcon />
+          </a>
+          <a
+            href="mailto:jairajgunjal10@gmail.com"
+            className="transition-transform hover:scale-110"
+            aria-label="Email"
+          >
+            <GmailIcon />
+          </a>
+          <a
+            href="https://github.com/jairajgunjal"
+            target="_blank"
+            rel="noreferrer"
+            className="transition-transform hover:scale-110"
+            aria-label="GitHub"
+          >
+            <GitHubIcon />
+          </a>
+        </div>
+
+        <button
+          onClick={() => setOpen((o) => !o)}
+          className="grid h-10 w-10 place-items-center rounded-lg border border-[#E2E8F0] text-[#0F172A] md:hidden"
+          aria-label="Toggle menu"
+        >
+          {open ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
+        </button>
+      </div>
+
+      {open && (
+        <div className="border-t border-[#E2E8F0] bg-white/95 px-4 pb-4 pt-2 md:hidden">
+          <div className="flex flex-col gap-1">
+            {navLinks.map((l) => (
+              <a
+                key={l.href}
+                href={l.href}
+                onClick={() => setOpen(false)}
+                className="block rounded-lg px-3 py-2.5 text-sm font-medium text-[#64748B] transition-colors hover:bg-[#F1F5F9] hover:text-[#0F172A]"
+              >
+                {l.label}
+              </a>
+            ))}
+          </div>
+          <div className="mt-4 flex items-center gap-4 border-t border-[#E2E8F0] pt-4">
+            <a
+              href="/resume-placeholder.pdf"
+              target="_blank"
+              rel="noreferrer"
+              className="inline-flex items-center rounded-full bg-[#0F172A] px-4 py-1.5 text-sm font-semibold text-white transition-colors hover:bg-[#1E293B]"
+            >
+              Resume
+            </a>
+            <a
+              href="https://www.linkedin.com/in/jairaj-gunjal-35b15b104?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
+              target="_blank"
+              rel="noreferrer"
+              aria-label="LinkedIn"
+            >
+              <LinkedInIcon />
+            </a>
+            <a
+              href="mailto:jairajgunjal10@gmail.com"
+              aria-label="Email"
+            >
+              <GmailIcon />
+            </a>
+            <a
+              href="https://github.com/jairajgunjal"
+              target="_blank"
+              rel="noreferrer"
+              aria-label="GitHub"
+            >
+              <GitHubIcon />
+            </a>
+          </div>
+        </div>
+      )}
+    </nav>
+  );
+}

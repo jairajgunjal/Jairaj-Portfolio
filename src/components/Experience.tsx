@@ -1,1 +1,142 @@
-aW1wb3J0IHsgQXJyb3dVcFJpZ2h0LCBCcmllZmNhc2UsIENhbGVuZGFyRGF5cywgVGFyZ2V0LCBUcmVuZGluZ1VwIH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKCmNvbnN0IHJvbGVzID0gWwogIHsKICAgIGNvbXBhbnk6ICJGYWNsb24gTGFicyIsCiAgICByb2xlOiAiQ3VzdG9tZXIgU3VjY2VzcyBNYW5hZ2VyIiwKICAgIGRhdGVzOiAiRGVjIDIwMjUg4oCUIFByZXNlbnQgwrcgTXVtYmFpIiwKICAgIG1ldHJpYzogIisyOCUgQUkgZmVhdHVyZSBhZG9wdGlvbiIsCiAgICBidWxsZXRzOiBbXSwKICB9LAogIHsKICAgIGNvbXBhbnk6ICJDYXJlZXIgYnJlYWsiLAogICAgcm9sZTogIkNhcmVnaXZpbmciLAogICAgZGF0ZXM6ICJEZWMgMjAyNCDigJQgTm92IDIwMjUgwrcgTXVtYmFpIiwKICAgIGJyZWFrOiB0cnVlLAogICAgYnVsbGV0czogW10sCiAgfSwKICB7CiAgICBjb21wYW55OiAiRGV6eSAoU21pbGVzLmFpKSIsCiAgICByb2xlOiAiQ2l0eSBMZWFkIChTYWxlcyAmIEdyb3d0aCBTdHJhdGVneSkiLAogICAgZGF0ZXM6ICJEZWMgMjAyMyDigJQgRGVjIDIwMjQgwrcgQmVuZ2FsdXJ1IiwKICAgIG1ldHJpYzogIuKCuTdNIG1vbnRobHkgcG9ydGZvbGlvIiwKICAgIGJ1bGxldHM6IFsKICAgICAgIk1hbmFnZWQgdGhlIGZ1bGwgY3VzdG9tZXIgam91cm5leSDigJQgb25ib2FyZGluZywgZW5nYWdlbWVudCBhbmQgc2F0aXNmYWN0aW9uIOKAlCBmb3IgQmVuZ2FsdXJ1LCBtYWludGFpbmluZyBhIOKCuTdNIG1vbnRobHkgcmV2ZW51ZSBwb3J0Zm9saW8uIiwKICAgICAgIkxlZCBhbmQgbWVudG9yZWQgMTIgZGlyZWN0IGFuZCBpbmRpcmVjdCByZXBvcnRzIGFjcm9zcyBzYWxlcyBhbmQgZ3Jvd3RoLiIsCiAgICAgICJRdWVyaWVkIGN1c3RvbWVyIGRhdGFiYXNlcyB3aXRoIFNRTCB0byBpZGVudGlmeSBmdW5uZWwgZHJvcC1vZmZzLCBpbmZvcm1pbmcgdGhlIGRlY2lzaW9uIHRvIHBhdXNlIHBhaWQgbWFya2V0aW5nIGFuZCBjbGVhciB0aGUgcGVuZGluZyBkZWFsIHBpcGVsaW5lLiIsCiAgICAgICJTY2FsZWQgb3JnYW5pYyBhY3F1aXNpdGlvbiB0aHJvdWdoIGh5cGVyLWxvY2FsIEJUTCBhY3Rpdml0aWVzLCBicmluZ2luZyBoaWdoLWludGVudCBsZWFkcyBpbnRvIHRoZSBpbXByb3ZlZCBvbmJvYXJkaW5nIGZ1bm5lbC4iLAogICAgXSwKICB9LAogIHsKICAgIGNvbXBhbnk6ICJUZWFjaG5vb2siLAogICAgcm9sZTogIlNlbmlvciBNYW5hZ2VyICYgTGVhZCBNZW1iZXIiLAogICAgZGF0ZXM6ICJKdWwgMjAyMiDigJQgTm92IDIwMjMgwrcgQmVuZ2FsdXJ1IiwKICAgIG1ldHJpYzogIuKCuTNDciBhdmVyYWdlIG1vbnRobHkgcG9ydGZvbGlvIiwKICAgIGJ1bGxldHM6IFsKICAgICAgIlNwZWFyaGVhZGVkIHNhbGVzLCBnby10by1tYXJrZXQgYW5kIGV4cGFuc2lvbiBzdHJhdGVnaWVzOyBUZWFjaG5vb2sgd2FzIHJhbmtlZCAjMTMgb24gTGlua2VkSW7igJlzIFRvcCBTdGFydHVwcyAyMDIzLiIsCiAgICAgICJCdWlsdCBhbmQgbWFuYWdlZCBhIHRlYW0gb2YgNjArIHJlcHJlc2VudGF0aXZlcyBleGVjdXRpbmcgYSDigrkzQ3IgYXZlcmFnZSBtb250aGx5IHJldmVudWUgcG9ydGZvbGlvLiIsCiAgICAgICJDb25uZWN0ZWQgdGVjaG5pY2FsIHRlYW1zLCBtYXJrZXRpbmcgYW5kIGV4ZWN1dGl2ZXMgdG8gdHVybiBncm91bmQtbGV2ZWwgdXNlciBpbnNpZ2h0cyBpbnRvIGFjdGlvbmFibGUgcHJvZHVjdCByb2FkbWFwIHVwZGF0ZXMuIiwKICAgICAgIlN0cnVjdHVyZWQgZGlzdHJpYnV0aW9uIGNoYW5uZWxzIGFuZCBwcm9tb3Rpb25hbCBmcmFtZXdvcmtzLCB1c2luZyBhY3F1aXNpdGlvbiB0cmVuZHMgdG8gcmVkdWNlIGRyb3Atb2ZmcyBhbmQgc3BlZWQgdXAgc2FsZXMgY3ljbGVzLiIsCiAgICBdLAogIH0sCiAgewogICAgY29tcGFueTogIlZlcnplbyIsCiAgICByb2xlOiAiQnVzaW5lc3MgRGV2ZWxvcG1lbnQgVHJhaW5lZSDihpIgU2VuaW9yIE1hbmFnZXIiLAogICAgZGF0ZXM6ICJBdWcgMjAyMCDigJQgSnVsIDIwMjIgwrcgQmVuZ2FsdXJ1IiwKICAgIG1ldHJpYzogIjAg4oaSIDUwIGluIGZvdXIgd2Vla3MiLAogICAgYnVsbGV0czogWwogICAgICAiU2VuaW9yIE1hbmFnZXIgKE1heeKAk0p1bCAyMDIyKSwgVGVhbSBMZWFkZXIgKEFwciAyMDIx4oCTSnVsIDIwMjIpLCBCdXNpbmVzcyBEZXZlbG9wbWVudCBFeGVjdXRpdmUgKEZlYiAyMDIx4oCTSnVsIDIwMjIpIGFuZCBCdXNpbmVzcyBEZXZlbG9wbWVudCBUcmFpbmVlIChBdWcgMjAyMOKAk0phbiAyMDIxKS4iLAogICAgICAiSGVscGVkIHNldCB1cCB0aGUgVmlzYWtoYXBhdG5hbSBicmFuY2gsIGhpcmluZyBhbmQgc2NhbGluZyBhIHRlYW0gZnJvbSAwIHRvIDUwIGluIGZvdXIgd2Vla3MuIiwKICAgIF0sCiAgfSwKICB7CiAgICBjb21wYW55OiAiQ2FyZWVyIGJyZWFrIiwKICAgIHJvbGU6ICJIZWFsdGggYW5kIHdlbGwtYmVpbmciLAogICAgZGF0ZXM6ICJKYW4gMjAyMCDigJQgSnVsIDIwMjAgwrcgTXVtYmFpIiwKICAgIGJyZWFrOiB0cnVlLAogICAgYnVsbGV0czogWyJDT1ZJRCBicmVhay4iXSwKICB9LAogIHsKICAgIGNvbXBhbnk6ICJHVEwgTGltaXRlZCIsCiAgICByb2xlOiAiTmV0d29yayBPcGVyYXRpb25zIENlbnRlciBFbmdpbmVlciIsCiAgICBkYXRlczogIkp1bCAyMDE5IOKAlCBEZWMgMjAxOSDCtyBNdW1iYWkiLAogICAgYnVsbGV0czogWwogICAgICAiTW9uaXRvcmVkIHRlbGVjb20gbmV0d29yayB0ZWxlbWV0cnkgYXJvdW5kIHRoZSBjbG9jaywgdHJpYWdpbmcgaW5jaWRlbnRzIGFnYWluc3QgU0xBcyDigJQgdGhlIHRlY2huaWNhbCBncm91bmRpbmcgSSBzdGlsbCB1c2Ugd2hlbiBzY29waW5nIHdoYXQgYSBwcm9kdWN0IHNob3VsZCBtZWFzdXJlLiIsCiAgICBdLAogIH0sCl07CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBFeHBlcmllbmNlKCkgewogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0ic2Nyb2xsLW10LTI0Ij4KICAgICAgPGRpdiBjbGFzc05hbWU9Im1iLTgiPgogICAgICAgIDxwIGNsYXNzTmFtZT0ibWItMyB0ZXh0LXhzIGZvbnQtc2VtaWJvbGQgdXBwZXJjYXNlIHRyYWNraW5nLVswLjJlbV0gdGV4dC1wcmltYXJ5Ij4KICAgICAgICAgIEV4cGVyaWVuY2UKICAgICAgICA8L3A+CiAgICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC0zeGwgZm9udC1ib2xkIHRleHQtZm9yZWdyb3VuZCBzbTp0ZXh0LTR4bCI+CiAgICAgICAgICBFbmdpbmVlcmluZyDihpIgU2FsZXMg4oaSIEN1c3RvbWVyIFN1Y2Nlc3Mg4oaSIFByb2R1Y3QuCiAgICAgICAgPC9oMj4KICAgICAgICA8cCBjbGFzc05hbWU9Im10LTQgbWF4LXctMnhsIGxlYWRpbmctcmVsYXhlZCB0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgVG9kYXkgSSdtIGEgQ3VzdG9tZXIgU3VjY2VzcyBNYW5hZ2VyIOKAlCBwcm9kdWN0LWZhY2luZyBldmVyeSBkYXkuIEVhY2ggc3RlcCBiZWxvdyBhZGRlZCBhCiAgICAgICAgICBtdXNjbGUgdGhlIG5leHQgb25lIG5lZWRlZDogdGVjaG5pY2FsIGdyb3VuZGluZyBmcm9tIGVuZ2luZWVyaW5nLCBjb21tZXJjaWFsIGp1ZGdtZW50CiAgICAgICAgICBmcm9tIHNhbGVzLCBhbmQgY3VzdG9tZXIgaW50aW1hY3kgZnJvbSBzdWNjZXNzLiBQcm9kdWN0IE1hbmFnZW1lbnQgaXMgd2hlcmUgaXQgYWxsCiAgICAgICAgICBjb252ZXJnZXMuCiAgICAgICAgPC9wPgogICAgICA8L2Rpdj4KCiAgICAgIDxhCiAgICAgICAgaHJlZj0iI3Byb2plY3RzIgogICAgICAgIGNsYXNzTmFtZT0ibWItMTAgbWwtMyBmbGV4IGl0ZW1zLWNlbnRlciBnYXAtNCByb3VuZGVkLXhsIGJvcmRlciBib3JkZXItZGFzaGVkIGJvcmRlci1wcmltYXJ5LzQwIGJnLXByaW1hcnkvNSBwLTQgdHJhbnNpdGlvbi1jb2xvcnMgaG92ZXI6Ym9yZGVyLXByaW1hcnkgc206bWwtNSBzbTpwLTUiCiAgICAgID4KICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImdyaWQgaC0xMCB3LTEwIHNocmluay0wIHBsYWNlLWl0ZW1zLWNlbnRlciByb3VuZGVkLWxnIGJnLXByaW1hcnkgdGV4dC13aGl0ZSI+CiAgICAgICAgICA8VGFyZ2V0IHNpemU9ezIwfSAvPgogICAgICAgIDwvc3Bhbj4KICAgICAgICA8c3BhbiBjbGFzc05hbWU9Im1pbi13LTAiPgogICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJibG9jayB0ZXh0LXhzIGZvbnQtc2VtaWJvbGQgdXBwZXJjYXNlIHRyYWNraW5nLXdpZGUgdGV4dC1wcmltYXJ5Ij4KICAgICAgICAgICAgV2hlcmUgdGhpcyBpcyBoZWFkZWQKICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iYmxvY2sgdGV4dC1sZyBmb250LXNlbWlib2xkIHRleHQtZm9yZWdyb3VuZCI+CiAgICAgICAgICAgIFByb2R1Y3QgTWFuYWdlbWVudCDigJQgc2VlIHRoZSBjYXNlIHN0dWRpZXMgSSd2ZSBidWlsdCB0b3dhcmQgaXQKICAgICAgICAgIDwvc3Bhbj4KICAgICAgICA8L3NwYW4+CiAgICAgICAgPEFycm93VXBSaWdodCBjbGFzc05hbWU9Im1sLWF1dG8gaC01IHctNSBzaHJpbmstMCB0ZXh0LXByaW1hcnkiIC8+CiAgICAgIDwvYT4KCiAgICAgIDxvbCBjbGFzc05hbWU9InJlbGF0aXZlIG1sLTMgYm9yZGVyLWwgYm9yZGVyLWJvcmRlciBzbTptbC01Ij4KICAgICAgICB7cm9sZXMubWFwKChyLCBpKSA9PiAoCiAgICAgICAgICA8bGkga2V5PXtgJHtyLmNvbXBhbnl9LSR7ci5kYXRlc31gfSBjbGFzc05hbWU9InJlbGF0aXZlIHBiLTEwIHBsLTcgbGFzdDpwYi0wIHNtOnBsLTEwIj4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtgYWJzb2x1dGUgLWxlZnQtWzlweF0gdG9wLTEuNSBncmlkIGgtWzE4cHhdIHctWzE4cHhdIHBsYWNlLWl0ZW1zLWNlbnRlciByb3VuZGVkLWZ1bGwgYm9yZGVyLTIgYmctY2FyZCAkeydicmVhaycgaW4gciA/ICdib3JkZXItbXV0ZWQtZm9yZWdyb3VuZCcgOiAnYm9yZGVyLXByaW1hcnknfWB9PgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17YGgtMS41IHctMS41IHJvdW5kZWQtZnVsbCAkeydicmVhaycgaW4gciA/ICdiZy1tdXRlZC1mb3JlZ3JvdW5kJyA6ICdiZy1wcmltYXJ5J31gfSAvPgogICAgICAgICAgICA8L3NwYW4+CgogICAgICAgICAgICA8YXJ0aWNsZSBjbGFzc05hbWU9ImJvcmRlci1iIGJvcmRlci1ib3JkZXIgcGItOCBsYXN0OmJvcmRlci0wIj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LXdyYXAgaXRlbXMtc3RhcnQganVzdGlmeS1iZXR3ZWVuIGdhcC0zIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtaW4tdy0wIj4KICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiB0ZXh0LXhzIGZvbnQtc2VtaWJvbGQgdXBwZXJjYXNlIHRyYWNraW5nLXdpZGUgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgICAgICAgICB7J2JyZWFrJyBpbiByID8gPENhbGVuZGFyRGF5cyBzaXplPXsxNH0gY2xhc3NOYW1lPSJzaHJpbmstMCIgLz4gOiA8QnJpZWZjYXNlIHNpemU9ezE0fSBjbGFzc05hbWU9InNocmluay0wIHRleHQtcHJpbWFyeSIgLz59IHtyLmNvbXBhbnl9CiAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgICAgPGgzIGNsYXNzTmFtZT0ibXQtMS41IHRleHQteGwgZm9udC1zZW1pYm9sZCB0ZXh0LWZvcmVncm91bmQiPntyLnJvbGV9PC9oMz4KICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC0xIHRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj57ci5kYXRlc308L3A+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIHtyLm1ldHJpYyAmJiAoCiAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iaW5saW5lLWZsZXggaXRlbXMtY2VudGVyIGdhcC0xLjUgcm91bmRlZC1tZCBib3JkZXIgYm9yZGVyLXByaW1hcnkvMzAgYmctcHJpbWFyeS8xMCBweC0zIHB5LTEuNSB0ZXh0LXNtIGZvbnQtc2VtaWJvbGQgdGV4dC1wcmltYXJ5Ij4KICAgICAgICAgICAgICAgICAgICA8VHJlbmRpbmdVcCBzaXplPXsxNX0gY2xhc3NOYW1lPSJzaHJpbmstMCIgLz4ge3IubWV0cmljfQogICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICB7ci5idWxsZXRzLmxlbmd0aCA+IDAgJiYgPHVsIGNsYXNzTmFtZT0ibXQtNSBzcGFjZS15LTIuNSI+CiAgICAgICAgICAgICAgICB7ci5idWxsZXRzLm1hcCgoYikgPT4gKAogICAgICAgICAgICAgICAgICA8bGkga2V5PXtifSBjbGFzc05hbWU9ImZsZXggZ2FwLTMgdGV4dC1zbSBsZWFkaW5nLXJlbGF4ZWQgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9Im10LTIgaC0xLjUgdy0xLjUgc2hyaW5rLTAgcm91bmRlZC1mdWxsIGJnLXByaW1hcnkvNzAiIC8+CiAgICAgICAgICAgICAgICAgICAge2J9CiAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgICA8L3VsPn0KICAgICAgICAgICAgPC9hcnRpY2xlPgogICAgICAgICAgPC9saT4KICAgICAgICApKX0KICAgICAgPC9vbD4KICAgIDwvZGl2PgogICk7Cn0K
+import { ArrowUpRight, Briefcase, CalendarDays, Target, TrendingUp } from "lucide-react";
+
+const roles = [
+  {
+    company: "Faclon Labs",
+    role: "Customer Success Manager",
+    dates: "Dec 2025 — Present · Mumbai",
+    metric: "+28% AI feature adoption",
+    bullets: [],
+  },
+  {
+    company: "Career break",
+    role: "Caregiving",
+    dates: "Dec 2024 — Nov 2025 · Mumbai",
+    break: true,
+    bullets: [],
+  },
+  {
+    company: "Dezy (Smiles.ai)",
+    role: "City Lead (Sales & Growth Strategy)",
+    dates: "Dec 2023 — Dec 2024 · Bengaluru",
+    metric: "₹7M monthly portfolio",
+    bullets: [
+      "Managed the full customer journey — onboarding, engagement and satisfaction — for Bengaluru, maintaining a ₹7M monthly revenue portfolio.",
+      "Led and mentored 12 direct and indirect reports across sales and growth.",
+      "Queried customer databases with SQL to identify funnel drop-offs, informing the decision to pause paid marketing and clear the pending deal pipeline.",
+      "Scaled organic acquisition through hyper-local BTL activities, bringing high-intent leads into the improved onboarding funnel.",
+    ],
+  },
+  {
+    company: "Teachnook",
+    role: "Senior Manager & Lead Member",
+    dates: "Jul 2022 — Nov 2023 · Bengaluru",
+    metric: "₹3Cr average monthly portfolio",
+    bullets: [
+      "Spearheaded sales, go-to-market and expansion strategies; Teachnook was ranked #13 on LinkedIn’s Top Startups 2023.",
+      "Built and managed a team of 60+ representatives executing a ₹3Cr average monthly revenue portfolio.",
+      "Connected technical teams, marketing and executives to turn ground-level user insights into actionable product roadmap updates.",
+      "Structured distribution channels and promotional frameworks, using acquisition trends to reduce drop-offs and speed up sales cycles.",
+    ],
+  },
+  {
+    company: "Verzeo",
+    role: "Business Development Trainee → Senior Manager",
+    dates: "Aug 2020 — Jul 2022 · Bengaluru",
+    metric: "0 → 50 in four weeks",
+    bullets: [
+      "Senior Manager (May–Jul 2022), Team Leader (Apr 2021–Jul 2022), Business Development Executive (Feb 2021–Jul 2022) and Business Development Trainee (Aug 2020–Jan 2021).",
+      "Helped set up the Visakhapatnam branch, hiring and scaling a team from 0 to 50 in four weeks.",
+    ],
+  },
+  {
+    company: "Career break",
+    role: "Health and well-being",
+    dates: "Jan 2020 — Jul 2020 · Mumbai",
+    break: true,
+    bullets: ["COVID break."],
+  },
+  {
+    company: "GTL Limited",
+    role: "Network Operations Center Engineer",
+    dates: "Jul 2019 — Dec 2019 · Mumbai",
+    bullets: [
+      "Monitored telecom network telemetry around the clock, triaging incidents against SLAs — the technical grounding I still use when scoping what a product should measure.",
+    ],
+  },
+];
+
+export default function Experience() {
+  return (
+    <div className="scroll-mt-24">
+      <div className="mb-8">
+        <p className="mb-3 text-xs font-semibold uppercase tracking-[0.2em] text-primary">
+          Experience
+        </p>
+        <h2 className="text-3xl font-bold text-foreground sm:text-4xl">
+          Engineering → Sales → Customer Success → Product.
+        </h2>
+        <p className="mt-4 max-w-2xl leading-relaxed text-muted-foreground">
+          Today I'm a Customer Success Manager — product-facing every day. Each step below added a
+          muscle the next one needed: technical grounding from engineering, commercial judgment
+          from sales, and customer intimacy from success. Product Management is where it all
+          converges.
+        </p>
+      </div>
+
+      <a
+        href="#projects"
+        className="mb-10 ml-3 flex items-center gap-4 rounded-xl border border-dashed border-primary/40 bg-primary/5 p-4 transition-colors hover:border-primary sm:ml-5 sm:p-5"
+      >
+        <span className="grid h-10 w-10 shrink-0 place-items-center rounded-lg bg-primary text-white">
+          <Target size={20} />
+        </span>
+        <span className="min-w-0">
+          <span className="block text-xs font-semibold uppercase tracking-wide text-primary">
+            Where this is headed
+          </span>
+          <span className="block text-lg font-semibold text-foreground">
+            Product Management — see the case studies I've built toward it
+          </span>
+        </span>
+        <ArrowUpRight className="ml-auto h-5 w-5 shrink-0 text-primary" />
+      </a>
+
+      <ol className="relative ml-3 border-l border-border sm:ml-5">
+        {roles.map((r, i) => (
+          <li key={`${r.company}-${r.dates}`} className="relative pb-10 pl-7 last:pb-0 sm:pl-10">
+            <span className={`absolute -left-[9px] top-1.5 grid h-[18px] w-[18px] place-items-center rounded-full border-2 bg-card ${'break' in r ? 'border-muted-foreground' : 'border-primary'}`}>
+              <span className={`h-1.5 w-1.5 rounded-full ${'break' in r ? 'bg-muted-foreground' : 'bg-primary'}`} />
+            </span>
+
+            <article className="border-b border-border pb-8 last:border-0">
+              <div className="flex flex-wrap items-start justify-between gap-3">
+                <div className="min-w-0">
+                  <p className="flex items-center gap-2 text-xs font-semibold uppercase tracking-wide text-muted-foreground">
+                    {'break' in r ? <CalendarDays size={14} className="shrink-0" /> : <Briefcase size={14} className="shrink-0 text-primary" />} {r.company}
+                  </p>
+                  <h3 className="mt-1.5 text-xl font-semibold text-foreground">{r.role}</h3>
+                  <p className="mt-1 text-sm text-muted-foreground">{r.dates}</p>
+                </div>
+                {r.metric && (
+                  <span className="inline-flex items-center gap-1.5 rounded-md border border-primary/30 bg-primary/10 px-3 py-1.5 text-sm font-semibold text-primary">
+                    <TrendingUp size={15} className="shrink-0" /> {r.metric}
+                  </span>
+                )}
+              </div>
+
+              {r.bullets.length > 0 && <ul className="mt-5 space-y-2.5">
+                {r.bullets.map((b) => (
+                  <li key={b} className="flex gap-3 text-sm leading-relaxed text-muted-foreground">
+                    <span className="mt-2 h-1.5 w-1.5 shrink-0 rounded-full bg-primary/70" />
+                    {b}
+                  </li>
+                ))}
+              </ul>}
+            </article>
+          </li>
+        ))}
+      </ol>
+    </div>
+  );
+}

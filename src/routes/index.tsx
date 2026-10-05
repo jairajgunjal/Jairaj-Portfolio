@@ -1,1 +1,30 @@
-aW1wb3J0IHsgY3JlYXRlRmlsZVJvdXRlIH0gZnJvbSAiQHRhbnN0YWNrL3JlYWN0LXJvdXRlciI7CmltcG9ydCBBcHAgZnJvbSAiQC9BcHAiOwoKZXhwb3J0IGNvbnN0IFJvdXRlID0gY3JlYXRlRmlsZVJvdXRlKCIvIikoewogIGhlYWQ6ICgpID0+ICh7CiAgICBtZXRhOiBbCiAgICAgIHsgdGl0bGU6ICJKYWlyYWogR3VuamFsIOKAlCBBSSBQcm9kdWN0IE1hbmFnZXIgUG9ydGZvbGlvIiB9LAogICAgICB7CiAgICAgICAgbmFtZTogImRlc2NyaXB0aW9uIiwKICAgICAgICBjb250ZW50OgogICAgICAgICAgIkN1c3RvbWVyIFN1Y2Nlc3MgbGVhZGVyIHRyYW5zaXRpb25pbmcgaW50byBBSSBQcm9kdWN0IE1hbmFnZW1lbnQgYXQgRmFsY29uIExhYnMuIFBvcnRmb2xpbyBvZiBnZW5lcmF0aXZlIEFJLCBMTE0gcGlwZWxpbmVzIGFuZCBwcmVkaWN0aXZlIE1MIG1vZGVscy4iLAogICAgICB9LAogICAgICB7CiAgICAgICAgcHJvcGVydHk6ICJvZzp0aXRsZSIsCiAgICAgICAgY29udGVudDogIkphaXJhaiBHdW5qYWwg4oCUIEFJIFByb2R1Y3QgTWFuYWdlciBQb3J0Zm9saW8iLAogICAgICB9LAogICAgICB7CiAgICAgICAgcHJvcGVydHk6ICJvZzpkZXNjcmlwdGlvbiIsCiAgICAgICAgY29udGVudDogIkJyaWRnaW5nIHVzZXIgZW1wYXRoeSB3aXRoIG1hY2hpbmUgbGVhcm5pbmcgaW5mcmFzdHJ1Y3R1cmUuIiwKICAgICAgfSwKICAgICAgeyBwcm9wZXJ0eTogIm9nOnR5cGUiLCBjb250ZW50OiAid2Vic2l0ZSIgfSwKICAgICAgeyBuYW1lOiAidHdpdHRlcjpjYXJkIiwgY29udGVudDogInN1bW1hcnlfbGFyZ2VfaW1hZ2UiIH0sCiAgICBdLAogIH0pLAogIGNvbXBvbmVudDogSW5kZXgsCn0pOwoKZnVuY3Rpb24gSW5kZXgoKSB7CiAgcmV0dXJuIDxBcHAgLz47Cn0K
+import { createFileRoute } from "@tanstack/react-router";
+import App from "@/App";
+
+export const Route = createFileRoute("/")({
+  head: () => ({
+    meta: [
+      { title: "Jairaj Gunjal — AI Product Manager Portfolio" },
+      {
+        name: "description",
+        content:
+          "Customer Success leader transitioning into AI Product Management at Falcon Labs. Portfolio of generative AI, LLM pipelines and predictive ML models.",
+      },
+      {
+        property: "og:title",
+        content: "Jairaj Gunjal — AI Product Manager Portfolio",
+      },
+      {
+        property: "og:description",
+        content: "Bridging user empathy with machine learning infrastructure.",
+      },
+      { property: "og:type", content: "website" },
+      { name: "twitter:card", content: "summary_large_image" },
+    ],
+  }),
+  component: Index,
+});
+
+function Index() {
+  return <App />;
+}

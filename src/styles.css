@@ -1,1 +1,123 @@
-QGltcG9ydCAidGFpbHdpbmRjc3MiIHNvdXJjZShub25lKTsKQHNvdXJjZSAiLi4vc3JjIjsKQGltcG9ydCAidHctYW5pbWF0ZS1jc3MiOwoKLyoKICogUHVyZSBNaW5pbWFsaXN0IGRlc2lnbiBzeXN0ZW0KICogU29mdCB3aGl0ZS9vZmYtd2hpdGUgYmFja2dyb3VuZCwgY2hhcmNvYWwgdGV4dCwgbmF2eSBhY2NlbnQuCiAqLwoKQHRoZW1lIGlubGluZSB7CiAgLS1yYWRpdXMtc206IGNhbGModmFyKC0tcmFkaXVzKSAtIDRweCk7CiAgLS1yYWRpdXMtbWQ6IGNhbGModmFyKC0tcmFkaXVzKSAtIDJweCk7CiAgLS1yYWRpdXMtbGc6IHZhcigtLXJhZGl1cyk7CiAgLS1yYWRpdXMteGw6IGNhbGModmFyKC0tcmFkaXVzKSArIDRweCk7CiAgLS1yYWRpdXMtMnhsOiBjYWxjKHZhcigtLXJhZGl1cykgKyA4cHgpOwoKICAtLWNvbG9yLWJhY2tncm91bmQ6IHZhcigtLWJhY2tncm91bmQpOwogIC0tY29sb3ItZm9yZWdyb3VuZDogdmFyKC0tZm9yZWdyb3VuZCk7CiAgLS1jb2xvci1jYXJkOiB2YXIoLS1jYXJkKTsKICAtLWNvbG9yLWNhcmQtZm9yZWdyb3VuZDogdmFyKC0tY2FyZC1mb3JlZ3JvdW5kKTsKICAtLWNvbG9yLXByaW1hcnk6IHZhcigtLXByaW1hcnkpOwogIC0tY29sb3ItcHJpbWFyeS1mb3JlZ3JvdW5kOiB2YXIoLS1wcmltYXJ5LWZvcmVncm91bmQpOwogIC0tY29sb3ItbXV0ZWQ6IHZhcigtLW11dGVkKTsKICAtLWNvbG9yLW11dGVkLWZvcmVncm91bmQ6IHZhcigtLW11dGVkLWZvcmVncm91bmQpOwogIC0tY29sb3ItYWNjZW50OiB2YXIoLS1hY2NlbnQpOwogIC0tY29sb3ItYWNjZW50LWZvcmVncm91bmQ6IHZhcigtLWFjY2VudC1mb3JlZ3JvdW5kKTsKICAtLWNvbG9yLWJvcmRlcjogdmFyKC0tYm9yZGVyKTsKICAtLWNvbG9yLWlucHV0OiB2YXIoLS1pbnB1dCk7CiAgLS1jb2xvci1yaW5nOiB2YXIoLS1yaW5nKTsKCiAgLS1mb250LWRpc3BsYXk6ICJTcGFjZSBHcm90ZXNrIiwgdWktc2Fucy1zZXJpZiwgc3lzdGVtLXVpLCBzYW5zLXNlcmlmOwogIC0tZm9udC1zYW5zOiAiTWFucm9wZSIsIHVpLXNhbnMtc2VyaWYsIHN5c3RlbS11aSwgc2Fucy1zZXJpZjsKCiAgLS1hbmltYXRlLWZhZGUtaW46IGZhZGUtaW4gMC42cyBjdWJpYy1iZXppZXIoMC4yMiwgMSwgMC4zNiwgMSkgYm90aDsKICAtLWFuaW1hdGUtcmlzZTogcmlzZSAwLjdzIGN1YmljLWJlemllcigwLjIyLCAxLCAwLjM2LCAxKSBib3RoOwoKICBAa2V5ZnJhbWVzIGZhZGUtaW4gewogICAgZnJvbSB7CiAgICAgIG9wYWNpdHk6IDA7CiAgICB9CiAgICB0byB7CiAgICAgIG9wYWNpdHk6IDE7CiAgICB9CiAgfQogIEBrZXlmcmFtZXMgcmlzZSB7CiAgICBmcm9tIHsKICAgICAgb3BhY2l0eTogMDsKICAgICAgdHJhbnNmb3JtOiB0cmFuc2xhdGVZKDE2cHgpOwogICAgfQogICAgdG8gewogICAgICBvcGFjaXR5OiAxOwogICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoMCk7CiAgICB9CiAgfQp9Cgo6cm9vdCB7CiAgLS1yYWRpdXM6IDAuNzVyZW07CiAgLyogI0Y4RkFGQyBvZmYtd2hpdGUgKi8KICAtLWJhY2tncm91bmQ6ICNmOGZhZmM7CiAgLyogIzBGMTcyQSBjaGFyY29hbCAqLwogIC0tZm9yZWdyb3VuZDogIzBmMTcyYTsKICAvKiAjRkZGRkZGIGNhcmRzICovCiAgLS1jYXJkOiAjZmZmZmZmOwogIC0tY2FyZC1mb3JlZ3JvdW5kOiAjMGYxNzJhOwogIC0tcG9wb3ZlcjogI2ZmZmZmZjsKICAtLXBvcG92ZXItZm9yZWdyb3VuZDogIzBmMTcyYTsKICAvKiAjMUUzQThBIGRlZXAgbmF2eSAqLwogIC0tcHJpbWFyeTogIzFlM2E4YTsKICAtLXByaW1hcnktZm9yZWdyb3VuZDogI2ZmZmZmZjsKICAvKiAjRjFGNUY5IHN1YnRsZSBzZWNvbmRhcnkgKi8KICAtLXNlY29uZGFyeTogI2YxZjVmOTsKICAtLXNlY29uZGFyeS1mb3JlZ3JvdW5kOiAjMGYxNzJhOwogIC0tbXV0ZWQ6ICNmMWY1Zjk7CiAgLyogIzY0NzQ4QiBzbGF0ZSBib2R5ICovCiAgLS1tdXRlZC1mb3JlZ3JvdW5kOiAjNjQ3NDhiOwogIC8qICMwRDk0ODggdGVhbCBhY2NlbnQgZm9yIGljb24gaG92ZXJzICovCiAgLS1hY2NlbnQ6ICMwZDk0ODg7CiAgLS1hY2NlbnQtZm9yZWdyb3VuZDogI2ZmZmZmZjsKICAtLWRlc3RydWN0aXZlOiAjZWY0NDQ0OwogIC0tZGVzdHJ1Y3RpdmUtZm9yZWdyb3VuZDogI2ZmZmZmZjsKICAtLWJvcmRlcjogI2UyZThmMDsKICAtLWlucHV0OiAjZTJlOGYwOwogIC0tcmluZzogIzFlM2E4YTsKfQoKQGxheWVyIGJhc2UgewogICogewogICAgYm9yZGVyLWNvbG9yOiB2YXIoLS1jb2xvci1ib3JkZXIpOwogIH0KCiAgaHRtbCB7CiAgICBzY3JvbGwtYmVoYXZpb3I6IHNtb290aDsKICAgIGNvbG9yLXNjaGVtZTogbGlnaHQ7CiAgfQoKICBib2R5IHsKICAgIGJhY2tncm91bmQtY29sb3I6IHZhcigtLWNvbG9yLWJhY2tncm91bmQpOwogICAgY29sb3I6IHZhcigtLWNvbG9yLWZvcmVncm91bmQpOwogICAgZm9udC1mYW1pbHk6IHZhcigtLWZvbnQtc2Fucyk7CiAgICAtd2Via2l0LWZvbnQtc21vb3RoaW5nOiBhbnRpYWxpYXNlZDsKICB9CgogIGgxLAogIGgyLAogIGgzLAogIGg0IHsKICAgIGZvbnQtZmFtaWx5OiB2YXIoLS1mb250LWRpc3BsYXkpOwogICAgbGV0dGVyLXNwYWNpbmc6IC0wLjAyZW07CiAgfQoKICA6OnNlbGVjdGlvbiB7CiAgICBiYWNrZ3JvdW5kOiAjMWUzYThhOwogICAgY29sb3I6ICNmZmZmZmY7CiAgfQp9CgovKiBMaWdodCBmcm9zdGVkIG5hdmJhciAqLwpAdXRpbGl0eSBnbGFzcy1saWdodCB7CiAgYmFja2dyb3VuZDogcmdiYSgyNTUsIDI1NSwgMjU1LCAwLjcyKTsKICBiYWNrZHJvcC1maWx0ZXI6IGJsdXIoMTZweCkgc2F0dXJhdGUoMTUwJSk7CiAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkIHJnYmEoMjI2LCAyMzIsIDI0MCwgMC44KTsKfQo=
+@import "tailwindcss" source(none);
+@source "../src";
+@import "tw-animate-css";
+
+/*
+ * Pure Minimalist design system
+ * Soft white/off-white background, charcoal text, navy accent.
+ */
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --radius-2xl: calc(var(--radius) + 8px);
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --font-display: "Space Grotesk", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: "Manrope", ui-sans-serif, system-ui, sans-serif;
+
+  --animate-fade-in: fade-in 0.6s cubic-bezier(0.22, 1, 0.36, 1) both;
+  --animate-rise: rise 0.7s cubic-bezier(0.22, 1, 0.36, 1) both;
+
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  @keyframes rise {
+    from {
+      opacity: 0;
+      transform: translateY(16px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
+
+:root {
+  --radius: 0.75rem;
+  /* #F8FAFC off-white */
+  --background: #f8fafc;
+  /* #0F172A charcoal */
+  --foreground: #0f172a;
+  /* #FFFFFF cards */
+  --card: #ffffff;
+  --card-foreground: #0f172a;
+  --popover: #ffffff;
+  --popover-foreground: #0f172a;
+  /* #1E3A8A deep navy */
+  --primary: #1e3a8a;
+  --primary-foreground: #ffffff;
+  /* #F1F5F9 subtle secondary */
+  --secondary: #f1f5f9;
+  --secondary-foreground: #0f172a;
+  --muted: #f1f5f9;
+  /* #64748B slate body */
+  --muted-foreground: #64748b;
+  /* #0D9488 teal accent for icon hovers */
+  --accent: #0d9488;
+  --accent-foreground: #ffffff;
+  --destructive: #ef4444;
+  --destructive-foreground: #ffffff;
+  --border: #e2e8f0;
+  --input: #e2e8f0;
+  --ring: #1e3a8a;
+}
+
+@layer base {
+  * {
+    border-color: var(--color-border);
+  }
+
+  html {
+    scroll-behavior: smooth;
+    color-scheme: light;
+  }
+
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display);
+    letter-spacing: -0.02em;
+  }
+
+  ::selection {
+    background: #1e3a8a;
+    color: #ffffff;
+  }
+}
+
+/* Light frosted navbar */
+@utility glass-light {
+  background: rgba(255, 255, 255, 0.72);
+  backdrop-filter: blur(16px) saturate(150%);
+  border-bottom: 1px solid rgba(226, 232, 240, 0.8);
+}

@@ -1,1 +1,109 @@
-aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7CiAgTmV0d29yaywKICBNYXAsCiAgQ29tcGFzcywKICBUcmVuZGluZ1VwLAogIFVzZXJzLAogIE1lc3NhZ2VTcXVhcmUsCn0gZnJvbSAibHVjaWRlLXJlYWN0IjsKCmNvbnN0IHNraWxscyA9IFsKICB7CiAgICBsYWJlbDogIkxMTSBPcmNoZXN0cmF0aW9uIiwKICAgIGljb246IE5ldHdvcmssCiAgICBkZXRhaWw6CiAgICAgICJSQUcsIGFnZW50cywgdG9vbC11c2UgYW5kIGd1YXJkcmFpbHMgaW4gcHJvZHVjdGlvbiDigJQgc2NvcGluZyBBSSBmZWF0dXJlcyB0aGF0IHN0YXkgaGVscGZ1bCwgc2FmZSBhbmQgb2JzZXJ2YWJsZS4iLAogIH0sCiAgewogICAgbGFiZWw6ICJSb2FkbWFwIE93bmVyc2hpcCIsCiAgICBpY29uOiBNYXAsCiAgICBkZXRhaWw6CiAgICAgICJRdWFydGVybHkgcm9hZG1hcHMgdGllZCB0byBPS1JzLCB3aXRoIHdyaXR0ZW4gdHJhZGUtb2ZmcywgUFJEcyBhbmQgc3Rha2Vob2xkZXIgc2lnbi1vZmYgZnJvbSBlbmdpbmVlcmluZyB0byBHVE0uIiwKICB9LAogIHsKICAgIGxhYmVsOiAiUHJvZHVjdCBTdHJhdGVneSIsCiAgICBpY29uOiBDb21wYXNzLAogICAgZGV0YWlsOgogICAgICAiVmlzaW9uLCBwb3NpdGlvbmluZyBhbmQgMOKGkjEgYmV0cyBncm91bmRlZCBpbiBtYXJrZXQgbmVlZCwgdGVjaG5pY2FsIGZlYXNpYmlsaXR5IGFuZCB1bml0IGVjb25vbWljcy4iLAogIH0sCiAgewogICAgbGFiZWw6ICJUZWxlbWV0cnkgJiBQcmVkaWN0aXZlIEFuYWx5dGljcyIsCiAgICBpY29uOiBUcmVuZGluZ1VwLAogICAgZGV0YWlsOgogICAgICAiU1FMLCBUYWJsZWF1IGFuZCBJb1QvcHJvZHVjdCB0ZWxlbWV0cnkgdHVybmVkIGludG8gaGVhbHRoIHNjb3JlcyBhbmQgY2h1cm4gc2lnbmFscyB0aGF0IHRyaWdnZXIgYWN0aW9uIGJlZm9yZSByZXZlbnVlIGlzIGxvc3QuIiwKICB9LAogIHsKICAgIGxhYmVsOiAiVXNlciBEaXNjb3ZlcnkiLAogICAgaWNvbjogTWVzc2FnZVNxdWFyZSwKICAgIGRldGFpbDoKICAgICAgIlR1cm5pbmcgc3VwcG9ydCBjb252ZXJzYXRpb25zLCBOUFMgYW5kIHVzYWdlIGRhdGEgaW50byB2YWxpZGF0ZWQgcHJvYmxlbSBzdGF0ZW1lbnRzLCB1c2VyIHN0b3JpZXMgYW5kIGFjY2VwdGFuY2UgY3JpdGVyaWEuIiwKICB9LAogIHsKICAgIGxhYmVsOiAiQ3Jvc3MtZnVuY3Rpb25hbCBMZWFkZXJzaGlwIiwKICAgIGljb246IFVzZXJzLAogICAgZGV0YWlsOgogICAgICAiQWxpZ25pbmcgZGF0YSBzY2llbmNlLCBlbmdpbmVlcmluZywgb3BlcmF0aW9ucyBhbmQgc2FsZXMgYXJvdW5kIG9uZSBiZXQg4oCUIGZyb20gcHJvdG90eXBlIHRvIGFkb3B0aW9uLiBMZWQgdGVhbXMgb2YgMTIgdG8gODArLiIsCiAgfSwKXTsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIENvbXBldGVuY2llcygpIHsKICBjb25zdCBbYWN0aXZlLCBzZXRBY3RpdmVdID0gdXNlU3RhdGUoMCk7CiAgY29uc3QgY3VycmVudCA9IHNraWxsc1thY3RpdmVdID8/IHNraWxsc1swXSE7CiAgY29uc3QgSWNvbiA9IGN1cnJlbnQuaWNvbjsKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJzY3JvbGwtbXQtMjQiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0ibWItOCI+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJtYi0zIHRleHQteHMgZm9udC1zZW1pYm9sZCB1cHBlcmNhc2UgdHJhY2tpbmctWzAuMmVtXSB0ZXh0LVsjMUUzQThBXSI+CiAgICAgICAgICBDb21wZXRlbmNpZXMKICAgICAgICA8L3A+CiAgICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC0zeGwgZm9udC1ib2xkIHRleHQtWyMwRjE3MkFdIHNtOnRleHQtNHhsIj4KICAgICAgICAgIFN0cmF0ZWd5ICYgdGVjaG5pY2FsIGVkZ2UuCiAgICAgICAgPC9oMj4KICAgICAgICA8cCBjbGFzc05hbWU9Im10LTQgbWF4LXctMnhsIGxlYWRpbmctcmVsYXhlZCB0ZXh0LVsjNjQ3NDhCXSI+CiAgICAgICAgICBNeSBDdXN0b21lciBTdWNjZXNzIGJhY2tncm91bmQgZ2l2ZXMgbWUgYSByYXJlIGxlbnM6IEkgZG9uJmFwb3M7dCBqdXN0IGJ1aWxkIEFJIOKAlCBJIGJ1aWxkCiAgICAgICAgICBBSSB0aGF0IHNvbHZlcyB0aGUgZXhhY3QgcGFpbiBwb2ludHMgdXNlcnMgZXhwcmVzcyBpbiBjYWxscywgdGlja2V0cyBhbmQgY2h1cm4gc3VydmV5cy4KICAgICAgICA8L3A+CiAgICAgIDwvZGl2PgoKICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ2FwLTggbGc6Z3JpZC1jb2xzLTIiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtd3JhcCBjb250ZW50LXN0YXJ0IGdhcC0yLjUiPgogICAgICAgICAge3NraWxscy5tYXAoKHMsIGkpID0+IHsKICAgICAgICAgICAgY29uc3QgU2kgPSBzLmljb247CiAgICAgICAgICAgIGNvbnN0IGlzQWN0aXZlID0gaSA9PT0gYWN0aXZlOwogICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICAgIGtleT17cy5sYWJlbH0KICAgICAgICAgICAgICAgIHR5cGU9ImJ1dHRvbiIKICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNldEFjdGl2ZShpKX0KICAgICAgICAgICAgICAgIG9uTW91c2VFbnRlcj17KCkgPT4gc2V0QWN0aXZlKGkpfQogICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtgaW5saW5lLWZsZXggaXRlbXMtY2VudGVyIGdhcC0yIHJvdW5kZWQtbGcgYm9yZGVyIHB4LTMuNSBweS0yIHRleHQtc20gZm9udC1tZWRpdW0gdHJhbnNpdGlvbi1hbGwgZHVyYXRpb24tMjAwICR7CiAgICAgICAgICAgICAgICAgIGlzQWN0aXZlCiAgICAgICAgICAgICAgICAgICAgPyAiYm9yZGVyLVsjMUUzQThBXS82MCBiZy1bIzFFM0E4QV0vMTAgdGV4dC1bIzFFM0E4QV0gc2hhZG93LXNtIgogICAgICAgICAgICAgICAgICAgIDogImJvcmRlci1bI0UyRThGMF0gYmctd2hpdGUgdGV4dC1bIzBGMTcyQV0gaG92ZXI6Ym9yZGVyLVsjMUUzQThBXS80MCBob3Zlcjp0ZXh0LVsjMUUzQThBXSIKICAgICAgICAgICAgICAgIH1gfQogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDxTaSBjbGFzc05hbWU9ImgtNCB3LTQiIC8+CiAgICAgICAgICAgICAgICB7cy5sYWJlbH0KICAgICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgKTsKICAgICAgICAgIH0pfQogICAgICAgIDwvZGl2PgoKICAgICAgICA8ZGl2CiAgICAgICAgICBrZXk9e2N1cnJlbnQubGFiZWx9CiAgICAgICAgICBjbGFzc05hbWU9ImFuaW1hdGUtZmFkZS1pbiByb3VuZGVkLXhsIGJvcmRlciBib3JkZXItWyNFMkU4RjBdIGJnLVsjRjhGQUZDXSBwLTYgc2hhZG93LXNtIgogICAgICAgID4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYi0zIGZsZXggaXRlbXMtY2VudGVyIGdhcC0zIj4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJncmlkIGgtMTAgdy0xMCBwbGFjZS1pdGVtcy1jZW50ZXIgcm91bmRlZC1sZyBiZy1bIzFFM0E4QV0vMTAgdGV4dC1bIzFFM0E4QV0iPgogICAgICAgICAgICAgIDxJY29uIGNsYXNzTmFtZT0iaC01IHctNSIgLz4KICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJ0ZXh0LWxnIGZvbnQtc2VtaWJvbGQgdGV4dC1bIzBGMTcyQV0iPntjdXJyZW50LmxhYmVsfTwvaDM+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibGVhZGluZy1yZWxheGVkIHRleHQtWyM2NDc0OEJdIj57Y3VycmVudC5kZXRhaWx9PC9wPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K
+import { useState } from "react";
+import {
+  Network,
+  Map,
+  Compass,
+  TrendingUp,
+  Users,
+  MessageSquare,
+} from "lucide-react";
+
+const skills = [
+  {
+    label: "LLM Orchestration",
+    icon: Network,
+    detail:
+      "RAG, agents, tool-use and guardrails in production — scoping AI features that stay helpful, safe and observable.",
+  },
+  {
+    label: "Roadmap Ownership",
+    icon: Map,
+    detail:
+      "Quarterly roadmaps tied to OKRs, with written trade-offs, PRDs and stakeholder sign-off from engineering to GTM.",
+  },
+  {
+    label: "Product Strategy",
+    icon: Compass,
+    detail:
+      "Vision, positioning and 0→1 bets grounded in market need, technical feasibility and unit economics.",
+  },
+  {
+    label: "Telemetry & Predictive Analytics",
+    icon: TrendingUp,
+    detail:
+      "SQL, Tableau and IoT/product telemetry turned into health scores and churn signals that trigger action before revenue is lost.",
+  },
+  {
+    label: "User Discovery",
+    icon: MessageSquare,
+    detail:
+      "Turning support conversations, NPS and usage data into validated problem statements, user stories and acceptance criteria.",
+  },
+  {
+    label: "Cross-functional Leadership",
+    icon: Users,
+    detail:
+      "Aligning data science, engineering, operations and sales around one bet — from prototype to adoption. Led teams of 12 to 80+.",
+  },
+];
+
+export default function Competencies() {
+  const [active, setActive] = useState(0);
+  const current = skills[active] ?? skills[0]!;
+  const Icon = current.icon;
+
+  return (
+    <div className="scroll-mt-24">
+      <div className="mb-8">
+        <p className="mb-3 text-xs font-semibold uppercase tracking-[0.2em] text-[#1E3A8A]">
+          Competencies
+        </p>
+        <h2 className="text-3xl font-bold text-[#0F172A] sm:text-4xl">
+          Strategy & technical edge.
+        </h2>
+        <p className="mt-4 max-w-2xl leading-relaxed text-[#64748B]">
+          My Customer Success background gives me a rare lens: I don&apos;t just build AI — I build
+          AI that solves the exact pain points users express in calls, tickets and churn surveys.
+        </p>
+      </div>
+
+      <div className="grid gap-8 lg:grid-cols-2">
+        <div className="flex flex-wrap content-start gap-2.5">
+          {skills.map((s, i) => {
+            const Si = s.icon;
+            const isActive = i === active;
+            return (
+              <button
+                key={s.label}
+                type="button"
+                onClick={() => setActive(i)}
+                onMouseEnter={() => setActive(i)}
+                className={`inline-flex items-center gap-2 rounded-lg border px-3.5 py-2 text-sm font-medium transition-all duration-200 ${
+                  isActive
+                    ? "border-[#1E3A8A]/60 bg-[#1E3A8A]/10 text-[#1E3A8A] shadow-sm"
+                    : "border-[#E2E8F0] bg-white text-[#0F172A] hover:border-[#1E3A8A]/40 hover:text-[#1E3A8A]"
+                }`}
+              >
+                <Si className="h-4 w-4" />
+                {s.label}
+              </button>
+            );
+          })}
+        </div>
+
+        <div
+          key={current.label}
+          className="animate-fade-in rounded-xl border border-[#E2E8F0] bg-[#F8FAFC] p-6 shadow-sm"
+        >
+          <div className="mb-3 flex items-center gap-3">
+            <span className="grid h-10 w-10 place-items-center rounded-lg bg-[#1E3A8A]/10 text-[#1E3A8A]">
+              <Icon className="h-5 w-5" />
+            </span>
+            <h3 className="text-lg font-semibold text-[#0F172A]">{current.label}</h3>
+          </div>
+          <p className="leading-relaxed text-[#64748B]">{current.detail}</p>
+        </div>
+      </div>
+    </div>
+  );
+}
